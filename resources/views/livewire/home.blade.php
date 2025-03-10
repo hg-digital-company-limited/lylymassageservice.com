@@ -1,68 +1,63 @@
 <div>
 
 <head>
-    <meta charset="UTF-8" />
-    <link rel="profile" href="http://gmpg.org/xfn/11" />
-    <link rel="pingback" href="https://spa8.mauthemewp.com/xmlrpc.php" />
 
     <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
     <title>Mẫu theme wordpress spa làm đẹp &#8211; Tất cả nội dung và hình ảnh trên web chỉ dùng để demo mẫu website
     </title>
-    <meta name='robots' content='noindex, nofollow' />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel='dns-prefetch' href='//use.fontawesome.com' />
     <link rel='prefetch'
-        href='https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3' />
+        href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3' />
     <link rel='prefetch'
-        href='https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.18.3' />
+        href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.18.3' />
     <link rel='prefetch'
-        href='https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.18.3' />
+        href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.18.3' />
     <link rel='prefetch'
-        href='https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.18.3' />
+        href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.18.3' />
     <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Mẫu theme wordpress spa làm đẹp &raquo;"
         href="https://spa8.mauthemewp.com/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Mẫu theme wordpress spa làm đẹp &raquo;"
         href="https://spa8.mauthemewp.com/comments/feed/" />
     <link rel='stylesheet' id='contact-form-7-css'
-        href='https://spa8.mauthemewp.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7'
+        href='/assets/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7'
         type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-official-css' href='https://use.fontawesome.com/releases/v6.1.2/css/all.css'
         type='text/css' media='all' integrity="sha384-fZCoUih8XsaUZnNDOiLqnby1tMJ0sE7oBbNk2Xxf5x8Z4SvNQ9j83vFMa/erbVrV"
         crossorigin="anonymous" />
     <link rel='stylesheet' id='flatsome-main-css'
-        href='https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.18.3' type='text/css'
+        href='/assets/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.18.3' type='text/css'
         media='all' />
     <style id='flatsome-main-inline-css' type='text/css'>
         @font-face {
             font-family: "fl-icons";
             font-display: block;
-            src: url(https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.18.3);
+            src: url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.18.3);
             src:
-                url(https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.18.3) format("embedded-opentype"),
-                url(https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.18.3) format("woff2"),
-                url(https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.18.3) format("truetype"),
-                url(https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.18.3) format("woff"),
-                url(https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.18.3#fl-icons) format("svg");
+                url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.18.3) format("embedded-opentype"),
+                url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.18.3) format("woff2"),
+                url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.18.3) format("truetype"),
+                url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.18.3) format("woff"),
+                url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.18.3#fl-icons) format("svg");
         }
     </style>
     <link rel='stylesheet' id='flatsome-style-css'
-        href='https://spa8.mauthemewp.com/wp-content/themes/flatsome-child/style.css?ver=3.0' type='text/css'
+        href='/assets/wp-content/themes/flatsome-child/style.css?ver=3.0' type='text/css'
         media='all' />
     <link rel='stylesheet' id='font-awesome-official-v4shim-css'
         href='https://use.fontawesome.com/releases/v6.1.2/css/v4-shims.css' type='text/css' media='all'
         integrity="sha384-iW7MVRJO9Fj06GFbRcMqdZBcVQhjBWlVXUjtY7XCppA+DZUoHBQ7B8VB+EjXUkPV" crossorigin="anonymous" />
-    <script type="text/javascript" src="https://spa8.mauthemewp.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+    <script type="text/javascript" src="/assets/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
         id="jquery-core-js"></script>
-    <link rel="https://api.w.org/" href="https://spa8.mauthemewp.com/wp-json/" />
-    <link rel="alternate" type="application/json" href="https://spa8.mauthemewp.com/wp-json/wp/v2/pages/718" />
+    <link rel="https://api.w.org/" href="/assets/wp-json/" />
+    <link rel="alternate" type="application/json" href="/assets/wp-json/wp/v2/pages/718" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://spa8.mauthemewp.com/xmlrpc.php?rsd" />
 
-    <link rel="canonical" href="https://spa8.mauthemewp.com/" />
+    <link rel="canonical" href="/" />
     <link rel='shortlink' href='https://spa8.mauthemewp.com/' />
     <link rel="alternate" type="application/json+oembed"
-        href="https://spa8.mauthemewp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2F" />
+        href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2F" />
     <link rel="alternate" type="text/xml+oembed"
-        href="https://spa8.mauthemewp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2F&#038;format=xml" />
+        href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2F&#038;format=xml" />
     <style>
         #category-posts-2-internal ul {
             padding: 0;
@@ -450,7 +445,7 @@
         /* Custom CSS */
         @font-face {
             font-family: 'Playfair Display';
-            src: url('/wp-content/themes/flatsome-child/font/PlayfairDisplay-Regular.woff2') format('woff2'), url('/wp-content/themes/flatsome-child/font/PlayfairDisplay-Regular.woff') format('woff');
+            src: url('/assets/wp-content/themes/flatsome-child/font/PlayfairDisplay-Regular.woff2') format('woff2'), url('/assets/wp-content/themes/flatsome-child/font/PlayfairDisplay-Regular.woff') format('woff');
             font-weight: normal;
             font-style: normal;
             font-display: swap;
@@ -464,7 +459,7 @@
         #main {
             background-color: #fff;
             position: relative;
-            background: url(/wp-content/uploads/2020/10/background-content.jpg) center top;
+            background: url(/assets/wp-content/uploads/2020/10/background-content.jpg) center top;
         }
 
         .section1,
@@ -641,57 +636,57 @@
         }
 
         .section1 .tabbed-content .nav-vertical li:nth-child(1) {
-            background: url(/wp-content/uploads/2020/10/tab-01.jpg) no-repeat;
+            background: url(/assets/wp-content/uploads/2020/10/tab-01.jpg) no-repeat;
             background-size: contain;
             background-position-x: center;
             margin-left: 10px !important;
         }
 
         .section1 .tabbed-content .nav-vertical li:nth-child(2) {
-            background: url(/wp-content/uploads/2020/10/tab-02.jpg) no-repeat;
+            background: url(/assets/wp-content/uploads/2020/10/tab-02.jpg) no-repeat;
             background-size: contain;
             background-position-x: center;
         }
 
         .section1 .tabbed-content .nav-vertical li:nth-child(3) {
-            background: url(/wp-content/uploads/2020/10/tab-03.jpg) no-repeat;
+            background: url(/assets/wp-content/uploads/2020/10/tab-03.jpg) no-repeat;
             background-size: contain;
             background-position-x: center;
             ;
         }
 
         .section1 .tabbed-content .nav-vertical li:nth-child(4) {
-            background: url(/wp-content/uploads/2020/10/tab-04.jpg) no-repeat;
+            background: url(/assets/wp-content/uploads/2020/10/tab-04.jpg) no-repeat;
             background-size: contain;
             background-position-x: center;
         }
 
         .section1 .tabbed-content .nav-vertical li:nth-child(5) {
-            background: url(/wp-content/uploads/2020/10/tab-05.jpg) no-repeat;
+            background: url(/assets/wp-content/uploads/2020/10/tab-05.jpg) no-repeat;
             background-size: contain;
             background-position-x: center;
         }
 
         .section1 .tabbed-content .nav-vertical li:nth-child(6) {
-            background: url(/wp-content/uploads/2020/10/tab-06.jpg) no-repeat;
+            background: url(/assets/wp-content/uploads/2020/10/tab-06.jpg) no-repeat;
             background-size: contain;
             background-position-x: center;
         }
 
         .section1 .tabbed-content .nav-vertical li:nth-child(7) {
-            background: url(/wp-content/uploads/2020/10/tab-07.jpg) no-repeat;
+            background: url(/assets/wp-content/uploads/2020/10/tab-07.jpg) no-repeat;
             background-size: contain;
             background-position-x: center;
         }
 
         .section1 .tabbed-content .nav-vertical li:nth-child(8) {
-            background: url(/wp-content/uploads/2020/10/tab-08.jpg) no-repeat;
+            background: url(/assets/wp-content/uploads/2020/10/tab-08.jpg) no-repeat;
             background-size: contain;
             background-position-x: center;
         }
 
         .section1 .tabbed-content .nav-vertical li:nth-child(9) {
-            background: url(/wp-content/uploads/2020/10/tab-09.jpg) no-repeat;
+            background: url(/assets/wp-content/uploads/2020/10/tab-09.jpg) no-repeat;
             background-size: contain;
             background-position-x: center;
         }
@@ -770,82 +765,82 @@
         }
 
         .section4 .tabbed-content ul li:nth-child(1) {
-            background: url(/wp-content/uploads/2020/10/fh4-nang-nguc.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/fh4-nang-nguc.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li.active:nth-child(1) {
-            background: url(/wp-content/uploads/2020/10/sp-1.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/sp-1.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li:nth-child(2) {
-            background: url(/wp-content/uploads/2020/10/sp-2.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/sp-2.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li.active:nth-child(2) {
-            background: url(/wp-content/uploads/2020/10/fh4-nang-mui-ac.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/fh4-nang-mui-ac.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li:nth-child(3) {
-            background: url(/wp-content/uploads/2020/10/sp-3.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/sp-3.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li.active:nth-child(3) {
-            background: url(/wp-content/uploads/2020/10/fh4-cat-mi-ac.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/fh4-cat-mi-ac.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li:nth-child(4) {
-            background: url(/wp-content/uploads/2020/10/sp-4.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/sp-4.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li.active:nth-child(4) {
-            background: url(/wp-content/uploads/2020/10/fh4-hut-mo-ac.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/fh4-hut-mo-ac.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li:nth-child(5) {
-            background: url(/wp-content/uploads/2020/10/sp-5.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/sp-5.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li.active:nth-child(5) {
-            background: url(/wp-content/uploads/2020/10/fh4-cay-mo-ac.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/fh4-cay-mo-ac.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li:nth-child(6) {
-            background: url(/wp-content/uploads/2020/10/sp-6.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/sp-6.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li.active:nth-child(6) {
-            background: url(/wp-content/uploads/2020/10/fh4-cay-collagen-ac.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/fh4-cay-collagen-ac.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li:nth-child(7) {
-            background: url(/wp-content/uploads/2020/10/sp-7.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/sp-7.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li.active:nth-child(7) {
-            background: url(/wp-content/uploads/2020/10/fh4-nang-co-ac.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/fh4-nang-co-ac.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li:nth-child(8) {
-            background: url(/wp-content/uploads/2020/10/sp-8.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/sp-8.jpg) no-repeat center;
             background-size: contain;
         }
 
         .section4 .tabbed-content ul li.active:nth-child(8) {
-            background: url(/wp-content/uploads/2020/10/fh4-phun-xam-ac.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/fh4-phun-xam-ac.jpg) no-repeat center;
             background-size: contain;
         }
 
@@ -1012,7 +1007,7 @@
 
         .section6 .cot4 .col.post-item .box-text h5 {
             padding: 0 0 0 20px;
-            background: url(/wp-content/uploads/2020/10/icon-hoa.png) no-repeat left 3px;
+            background: url(/assets/wp-content/uploads/2020/10/icon-hoa.png) no-repeat left 3px;
             font-size: 15px;
             font-weight: normal;
             display: -webkit-box;
@@ -1033,14 +1028,14 @@
         }
 
         .section7 .row1 .cot1 .icon-box {
-            background: url(/wp-content/uploads/2020/10/bg-hotline.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/bg-hotline.jpg) no-repeat center;
             padding: 20px 5px;
             color: #fff;
             background-size: cover;
         }
 
         .section7 .row1 .cot2 .icon-box {
-            background: url(/wp-content/uploads/2020/10/bg-dat-lich.jpg) no-repeat center;
+            background: url(/assets/wp-content/uploads/2020/10/bg-dat-lich.jpg) no-repeat center;
             padding: 20px 5px;
             color: #fff;
             background-size: cover;
@@ -1127,27 +1122,27 @@
         }
 
         .footer-section .cot2 ul li:nth-child(1) {
-            background: url(/wp-content/uploads/2020/10/ft_icon-mobile.png) no-repeat left 2px;
+            background: url(/assets/wp-content/uploads/2020/10/ft_icon-mobile.png) no-repeat left 2px;
         }
 
         .footer-section .cot2 ul li:nth-child(2) {
-            background: url(/wp-content/uploads/2020/10/ft_icon-phone.png) no-repeat left 2px;
+            background: url(/assets/wp-content/uploads/2020/10/ft_icon-phone.png) no-repeat left 2px;
         }
 
         .footer-section .cot2 ul li:nth-child(3) {
-            background: url(/wp-content/uploads/2020/10/ft_icon-mail.png) no-repeat left 2px;
+            background: url(/assets/wp-content/uploads/2020/10/ft_icon-mail.png) no-repeat left 2px;
         }
 
         .footer-section .cot2 ul li:nth-child(4) {
-            background: url(/wp-content/uploads/2020/10/ft_icon-facebook.png) no-repeat left 2px;
+            background: url(/assets/wp-content/uploads/2020/10/ft_icon-facebook.png) no-repeat left 2px;
         }
 
         .footer-section .cot2 ul li:nth-child(5) {
-            background: url(/wp-content/uploads/2020/10/ft_icon-youtube.png) no-repeat left 2px;
+            background: url(/assets/wp-content/uploads/2020/10/ft_icon-youtube.png) no-repeat left 2px;
         }
 
         .footer-section .cot2 ul li:nth-child(6) {
-            background: url(/wp-content/uploads/2020/10/ft_icon-insta.png) no-repeat left 2px;
+            background: url(/assets/wp-content/uploads/2020/10/ft_icon-insta.png) no-repeat left 2px;
         }
 
         .footer-section .cot2 p {
@@ -1160,7 +1155,7 @@
 
         .footer-section .cot3 ul li {
             margin-bottom: 15px;
-            background: url(/wp-content/uploads/2020/10/ft_icon-diachi.png) no-repeat left 1px;
+            background: url(/assets/wp-content/uploads/2020/10/ft_icon-diachi.png) no-repeat left 1px;
             padding-left: 20px;
             font-size: 15px;
             font-weight: 700;
@@ -1330,7 +1325,7 @@
             color: #306034;
             font-weight: 500;
             padding: 0 0 0 20px;
-            background: url(/wp-content/uploads/2020/10/icon-hoa.png) no-repeat left 3px;
+            background: url(/assets/wp-content/uploads/2020/10/icon-hoa.png) no-repeat left 3px;
             font-size: 15px;
             display: -webkit-box;
             -webkit-line-clamp: 2;
@@ -1429,7 +1424,7 @@
             font-size: 16px;
             color: #000;
             padding-left: 25px;
-            background: url(/wp-content/uploads/2020/10/icon-hoa.png) no-repeat left 3px;
+            background: url(/assets/wp-content/uploads/2020/10/icon-hoa.png) no-repeat left 3px;
         }
 
         .entry-content {
@@ -1868,7 +1863,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmZiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmZiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
         }
 
@@ -1879,7 +1874,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmQiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
         }
 
@@ -1890,7 +1885,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmYiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmYiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+1F00-1FFF;
         }
 
@@ -1901,7 +1896,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmXiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmXiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
         }
 
@@ -1912,7 +1907,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVnoiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVnoiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
         }
 
@@ -1923,7 +1918,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVn6iAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVn6iAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
         }
 
@@ -1934,7 +1929,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmbiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmbiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
         }
 
@@ -1945,7 +1940,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmaiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
         }
 
@@ -1956,7 +1951,7 @@
             font-weight: 400;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQm_20.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiAz0klQm_20.woff) format('woff');
             unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
         }
 
@@ -1967,7 +1962,7 @@
             font-weight: 500;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmZiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmZiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
         }
 
@@ -1978,7 +1973,7 @@
             font-weight: 500;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmQiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmQiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
         }
 
@@ -1989,7 +1984,7 @@
             font-weight: 500;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmYiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmYiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+1F00-1FFF;
         }
 
@@ -2000,7 +1995,7 @@
             font-weight: 500;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmXiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmXiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
         }
 
@@ -2011,7 +2006,7 @@
             font-weight: 500;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVnoiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVnoiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
         }
 
@@ -2022,7 +2017,7 @@
             font-weight: 500;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVn6iAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVn6iAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
         }
 
@@ -2033,7 +2028,7 @@
             font-weight: 500;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmbiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmbiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
         }
 
@@ -2044,7 +2039,7 @@
             font-weight: 500;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmaiAz0klQm_20O0g.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmaiAz0klQm_20O0g.woff) format('woff');
             unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
         }
 
@@ -2055,7 +2050,7 @@
             font-weight: 500;
             font-stretch: normal;
             font-display: swap;
-            src: url(https://spa8.mauthemewp.com/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiAz0klQm_20.woff) format('woff');
+            src: url(/assets/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiAz0klQm_20.woff) format('woff');
             unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
         }
     </style>
@@ -2070,324 +2065,7 @@
     <div id="wrapper">
 
 
-        <header id="header" class="header ">
-            <div class="header-wrapper">
-                <div id="masthead" class="header-main hide-for-sticky nav-dark">
-                    <div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
-
-                        <!-- Logo -->
-                        <div id="logo" class="flex-col logo">
-
-                            <!-- Header logo -->
-                            <a href="https://spa8.mauthemewp.com/"
-                                title="Mẫu theme wordpress spa làm đẹp - Tất cả nội dung và hình ảnh trên web chỉ dùng để demo mẫu website"
-                                rel="home">
-                                <img width="1020" height="289"
-                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/partner-06-1024x290.png"
-                                    class="header_logo header-logo" alt="Mẫu theme wordpress spa làm đẹp" /><img
-                                    width="1020" height="289"
-                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/partner-06-1024x290.png"
-                                    class="header-logo-dark" alt="Mẫu theme wordpress spa làm đẹp" /></a>
-                        </div>
-
-                        <!-- Mobile Left Elements -->
-                        <div class="flex-col show-for-medium flex-left">
-                            <ul class="mobile-nav nav nav-left ">
-                                <li class="nav-icon has-icon">
-                                    <div class="header-button"> <a href="#" data-open="#main-menu" data-pos="left"
-                                            data-bg="main-menu-overlay" data-color=""
-                                            class="icon primary button circle is-small" aria-label="Menu"
-                                            aria-controls="main-menu" aria-expanded="false">
-
-                                            <i class="icon-menu"></i>
-                                        </a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-
-                        <!-- Left Elements -->
-                        <div class="flex-col hide-for-medium flex-left
-            flex-grow">
-                            <ul
-                                class="header-nav header-nav-main nav nav-left  nav-size-medium nav-spacing-large nav-uppercase">
-                                <li class="header-search-form search-form html relative has-icon">
-                                    <div class="header-search-form-wrapper">
-                                        <div class="searchform-wrapper ux-search-box relative is-normal">
-                                            <form method="get" class="searchform" action="https://spa8.mauthemewp.com/"
-                                                role="search">
-                                                <div class="flex-row relative">
-                                                    <div class="flex-col flex-grow">
-                                                        <input type="search" class="search-field mb-0" name="s" value=""
-                                                            id="s" placeholder="Search&hellip;" />
-                                                    </div>
-                                                    <div class="flex-col">
-                                                        <button type="submit"
-                                                            class="ux-search-submit submit-button secondary button icon mb-0"
-                                                            aria-label="Nộp">
-                                                            <i class="icon-search"></i> </button>
-                                                    </div>
-                                                </div>
-                                                <div class="live-search-results text-left z-top"></div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-
-                        <!-- Right Elements -->
-                        <div class="flex-col hide-for-medium flex-right">
-                            <ul
-                                class="header-nav header-nav-main nav nav-right  nav-size-medium nav-spacing-large nav-uppercase">
-                                <li class="html header-button-2">
-                                    <div class="header-button">
-                                        <a class="button alert is-shade" style="border-radius:99px;">
-                                            <span>Mail : info@abcdef.com</span>
-                                        </a>
-                                    </div>
-                                </li>
-                                <li class="html header-button-1">
-                                    <div class="header-button">
-                                        <a class="button secondary is-shade" style="border-radius:99px;">
-                                            <span>Hotline : 0909 999 999</span>
-                                        </a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-
-                        <!-- Mobile Right Elements -->
-                        <div class="flex-col show-for-medium flex-right">
-                            <ul class="mobile-nav nav nav-right ">
-                                <li
-                                    class="header-search header-search-dropdown has-icon has-dropdown menu-item-has-children">
-                                    <div class="header-button"> <a href="#" aria-label="Search"
-                                            class="icon button circle is-outline is-small"><i
-                                                class="icon-search"></i></a>
-                                    </div>
-                                    <ul class="nav-dropdown nav-dropdown-default">
-                                        <li class="header-search-form search-form html relative has-icon">
-                                            <div class="header-search-form-wrapper">
-                                                <div class="searchform-wrapper ux-search-box relative is-normal">
-                                                    <form method="get" class="searchform"
-                                                        action="https://spa8.mauthemewp.com/" role="search">
-                                                        <div class="flex-row relative">
-                                                            <div class="flex-col flex-grow">
-                                                                <input type="search" class="search-field mb-0" name="s"
-                                                                    value="" id="s" placeholder="Search&hellip;" />
-                                                            </div>
-                                                            <div class="flex-col">
-                                                                <button type="submit"
-                                                                    class="ux-search-submit submit-button secondary button icon mb-0"
-                                                                    aria-label="Nộp">
-                                                                    <i class="icon-search"></i> </button>
-                                                            </div>
-                                                        </div>
-                                                        <div class="live-search-results text-left z-top"></div>
-                                                    </form>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-
-                    </div>
-
-                </div>
-                <div id="wide-nav" class="header-bottom wide-nav hide-for-sticky nav-dark hide-for-medium">
-                    <div class="flex-row container">
-
-                        <div class="flex-col hide-for-medium flex-left">
-                            <ul
-                                class="nav header-nav header-bottom-nav nav-left  nav-line-bottom nav-size-medium nav-spacing-medium nav-uppercase nav-prompts-overlay">
-                                <li id="menu-item-818"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-718 current_page_item menu-item-818 active menu-item-design-default has-icon-left">
-                                    <a href="https://spa8.mauthemewp.com/" aria-current="page" class="nav-top-link"><img
-                                            class="ux-menu-icon" width="20" height="20"
-                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/1490971322-map-icons-4_82748-150x150.png"
-                                            alt="" />Trang chủ</a></li>
-                                <li id="menu-item-819"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-819 menu-item-design-default">
-                                    <a href="/gioi-thieu" class="nav-top-link">Giới thiệu</a></li>
-                                <li id="menu-item-734"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734 menu-item-design-default">
-                                    <a href="https://spa8.mauthemewp.com/bang-gia/" class="nav-top-link">Bảng giá</a>
-                                </li>
-                                <li id="menu-item-577"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-577 menu-item-design-default has-dropdown">
-                                    <a href="https://spa8.mauthemewp.com/category/tham-my-mat/" class="nav-top-link"
-                                        aria-expanded="false" aria-haspopup="menu">Thẩm mỹ mặt<i
-                                            class="icon-angle-down"></i></a>
-                                    <ul class="sub-menu nav-dropdown nav-dropdown-default">
-                                        <li id="menu-item-710"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-710 nav-dropdown-col">
-                                            <a
-                                                href="https://spa8.mauthemewp.com/category/tham-my-mat/tham-my-mat-tham-my-mat/">Thẩm
-                                                mỹ mắt</a>
-                                            <ul class="sub-menu nav-column nav-dropdown-default">
-                                                <li id="menu-item-736"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-736">
-                                                    <a
-                                                        href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nanocell-4-0-cat-mi-laser-an-toan-chuan-my/">Cắt
-                                                        mí Pro Mini</a></li>
-                                                <li id="menu-item-735"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-735">
-                                                    <a
-                                                        href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nano-plasma/">Cắt
-                                                        mí Nano Plasma</a></li>
-                                                <li id="menu-item-737"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-737">
-                                                    <a href="https://spa8.mauthemewp.com/cay-mo-hoc-mat/">Cấy mỡ hốc
-                                                        mắt</a></li>
-                                                <li id="menu-item-738"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-738">
-                                                    <a href="https://spa8.mauthemewp.com/mo-rong-goc-mat/">Mở rộng góc
-                                                        mắt</a></li>
-                                                <li id="menu-item-739"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-739">
-                                                    <a href="https://spa8.mauthemewp.com/nang-cung-may/">Nâng cung
-                                                        mày</a></li>
-                                                <li id="menu-item-744"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-744">
-                                                    <a href="https://spa8.mauthemewp.com/tao-hinh-sup-mi-bam-sinh/">Tạo
-                                                        hình Sụp mí bẩm sinh</a></li>
-                                            </ul>
-                                        </li>
-                                        <li id="menu-item-711"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-711 nav-dropdown-col">
-                                            <a href="https://spa8.mauthemewp.com/category/tham-my-mat/tham-my-mui/">Thẩm
-                                                mỹ mũi</a>
-                                            <ul class="sub-menu nav-column nav-dropdown-default">
-                                                <li id="menu-item-740"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-740">
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-biscell/">Nâng mũi
-                                                        BisCell</a></li>
-                                                <li id="menu-item-741"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-741">
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-high-line/">Nâng mũi
-                                                        High-line</a></li>
-                                                <li id="menu-item-742"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-742">
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-nanocell-4-0/">Nâng
-                                                        mũi NanoCell 4.0</a></li>
-                                                <li id="menu-item-743"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-743">
-                                                    <a href="https://spa8.mauthemewp.com/rut-chat-lieu-mui-la-gi/">Rút
-                                                        chất liệu mũi là gì</a></li>
-                                                <li id="menu-item-745"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-745">
-                                                    <a href="https://spa8.mauthemewp.com/thu-gon-canh-mui/">Thu gọn cánh
-                                                        mũi</a></li>
-                                            </ul>
-                                        </li>
-                                        <li id="menu-item-709"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-709 nav-dropdown-col">
-                                            <a
-                                                href="https://spa8.mauthemewp.com/category/tham-my-mat/tham-my-khong-phau-thuat/">Thẩm
-                                                mỹ không phẫu thuật</a>
-                                            <ul class="sub-menu nav-column nav-dropdown-default">
-                                                <li id="menu-item-717"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-717">
-                                                    <a href="#">Tiêm Ruvederm</a></li>
-                                                <li id="menu-item-720"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-720">
-                                                    <a href="#">Xóa nhăn</a></li>
-                                                <li id="menu-item-721"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-721">
-                                                    <a href="#">Thu gọn mặt bằng Beauteam</a></li>
-                                            </ul>
-                                        </li>
-                                        <li id="menu-item-579"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-579 nav-dropdown-col">
-                                            <a href="https://spa8.mauthemewp.com/category/tham-my-mat/cay-mo/">Cấy
-                                                mỡ</a>
-                                            <ul class="sub-menu nav-column nav-dropdown-default">
-                                                <li id="menu-item-712"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-712">
-                                                    <a href="#">Cấy mỡ toàn mặt Ultra Fat</a></li>
-                                                <li id="menu-item-713"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-713">
-                                                    <a href="#">Cấy mỡ má hóp Ultra Fat</a></li>
-                                                <li id="menu-item-714"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-714">
-                                                    <a href="#">Cấy mỡ trán Ultra Fat</a></li>
-                                                <li id="menu-item-715"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-715">
-                                                    <a href="#">Cấy mỡ Vaser Fat</a></li>
-                                                <li id="menu-item-716"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-716">
-                                                    <a href="#">Cấy mỡ thái dương Ultra Fat</a></li>
-                                            </ul>
-                                        </li>
-                                        <li id="menu-item-580"
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-580 nav-dropdown-col">
-                                            <a href="https://spa8.mauthemewp.com/category/tham-my-mat/tham-my-khac/">Thẩm
-                                                mỹ khác</a>
-                                            <ul class="sub-menu nav-column nav-dropdown-default">
-                                                <li id="menu-item-722"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-722">
-                                                    <a href="#">Tạo má lúm đồng tiền</a></li>
-                                                <li id="menu-item-723"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-723">
-                                                    <a href="#">Tạo môi trái tim</a></li>
-                                                <li id="menu-item-725"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-725">
-                                                    <a href="#">Độn cằm V-line</a></li>
-                                                <li id="menu-item-724"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-724">
-                                                    <a href="#">Thu mỏng môi</a></li>
-                                                <li id="menu-item-727"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727">
-                                                    <a href="#">Căng da mặt</a></li>
-                                                <li id="menu-item-726"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-726">
-                                                    <a href="#">Nâng gò má</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li id="menu-item-578"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-578 menu-item-design-default">
-                                    <a href="https://spa8.mauthemewp.com/category/tham-my-voc-dang/"
-                                        class="nav-top-link">Thẩm mỹ vóc dáng</a></li>
-                                <li id="menu-item-575"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-575 menu-item-design-default">
-                                    <a href="https://spa8.mauthemewp.com/category/phun-xam-tham-my/"
-                                        class="nav-top-link">Phun xăm thẩm mỹ</a></li>
-                                <li id="menu-item-576"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-576 menu-item-design-default">
-                                    <a href="https://spa8.mauthemewp.com/category/tham-my-cong-nghe-cao/"
-                                        class="nav-top-link">Thẩm mỹ công nghệ cao</a></li>
-                                <li id="menu-item-574"
-                                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-574 menu-item-design-default">
-                                    <a href="https://spa8.mauthemewp.com/category/dich-vu-khac/"
-                                        class="nav-top-link">Dịch vụ khác</a></li>
-                                <li id="menu-item-820"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-820 menu-item-design-default">
-                                    <a href="/lien-he" class="nav-top-link">Liên hệ</a></li>
-                            </ul>
-                        </div>
-
-
-                        <div class="flex-col hide-for-medium flex-right flex-grow">
-                            <ul
-                                class="nav header-nav header-bottom-nav nav-right  nav-line-bottom nav-size-medium nav-spacing-medium nav-uppercase nav-prompts-overlay">
-                            </ul>
-                        </div>
-
-
-                    </div>
-                </div>
-
-                <div class="header-bg-container fill">
-                    <div class="header-bg-image fill"></div>
-                    <div class="header-bg-color fill"></div>
-                </div>
-            </div>
-        </header>
+        @livewire('inc.header')
 
 
         <main id="main" class="">
@@ -2421,9 +2099,9 @@
                         <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1820023156">
                             <div class="img-inner dark">
                                 <img loading="lazy" decoding="async" width="1920" height="801"
-                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1.jpg"
+                                    src="/assets/wp-content/uploads/2024/02/01-1.jpg"
                                     class="attachment-original size-original" alt=""
-                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1.jpg 1920w, https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
+                                    srcset="/assets/wp-content/uploads/2024/02/01-1.jpg 1920w, /assets/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, /assets/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, /assets/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, /assets/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
                                     sizes="(max-width: 1920px) 100vw, 1920px" />
                             </div>
 
@@ -2436,9 +2114,9 @@
                         <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_720755815">
                             <div class="img-inner dark">
                                 <img loading="lazy" decoding="async" width="1920" height="801"
-                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1.jpg"
+                                    src="/assets/wp-content/uploads/2024/02/01-1.jpg"
                                     class="attachment-original size-original" alt=""
-                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1.jpg 1920w, https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, https://spa8.mauthemewp.com/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
+                                    srcset="/assets/wp-content/uploads/2024/02/01-1.jpg 1920w, /assets/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, /assets/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, /assets/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, /assets/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
                                     sizes="(max-width: 1920px) 100vw, 1920px" />
                             </div>
 
@@ -2473,9 +2151,9 @@
                                     <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_34183814">
                                         <div class="img-inner dark">
                                             <img loading="lazy" decoding="async" width="467" height="143"
-                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/cau-chuyen-thuong-hieu-png.png"
+                                                src="/assets/wp-content/uploads/2024/02/cau-chuyen-thuong-hieu-png.png"
                                                 class="attachment-original size-original" alt=""
-                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/cau-chuyen-thuong-hieu-png.png 467w, https://spa8.mauthemewp.com/wp-content/uploads/2024/02/cau-chuyen-thuong-hieu-png-300x92.png 300w"
+                                                srcset="/assets/wp-content/uploads/2024/02/cau-chuyen-thuong-hieu-png.png 467w, /assets/wp-content/uploads/2024/02/cau-chuyen-thuong-hieu-png-300x92.png 300w"
                                                 sizes="(max-width: 467px) 100vw, 467px" />
                                         </div>
 
@@ -2536,7 +2214,7 @@
                         }
 
                         #section_299190186 .section-bg.bg-loaded {
-                            background-image: url(https://spa8.mauthemewp.com/wp-content/uploads/2024/02/bg789.jpg);
+                            background-image: url(/assets/wp-content/uploads/2024/02/bg789.jpg);
                         }
                     </style>
                 </section>
@@ -2605,9 +2283,9 @@
                                                         <div class="image-cover" style="padding-top:71%;">
                                                             <img loading="lazy" decoding="async" width="388"
                                                                 height="395"
-                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/dich-vu-1.jpg"
+                                                                src="/assets/wp-content/uploads/2020/10/dich-vu-1.jpg"
                                                                 class="attachment-original size-original" alt=""
-                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/dich-vu-1.jpg 388w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/dich-vu-1-295x300.jpg 295w"
+                                                                srcset="/assets/wp-content/uploads/2020/10/dich-vu-1.jpg 388w, /assets/wp-content/uploads/2020/10/dich-vu-1-295x300.jpg 295w"
                                                                 sizes="(max-width: 388px) 100vw, 388px" />
                                                         </div>
                                                     </div>
@@ -2635,9 +2313,9 @@
                                                         <div class="image-cover" style="padding-top:71%;">
                                                             <img loading="lazy" decoding="async" width="388"
                                                                 height="395"
-                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg"
+                                                                src="/assets/wp-content/uploads/2020/10/cat-mi.jpg"
                                                                 class="attachment-original size-original" alt=""
-                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg 388w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
+                                                                srcset="/assets/wp-content/uploads/2020/10/cat-mi.jpg 388w, /assets/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
                                                                 sizes="(max-width: 388px) 100vw, 388px" />
                                                         </div>
                                                     </div>
@@ -2665,9 +2343,9 @@
                                                         <div class="image-cover" style="padding-top:71%;">
                                                             <img loading="lazy" decoding="async" width="388"
                                                                 height="395"
-                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/nang-nguc.jpg"
+                                                                src="/assets/wp-content/uploads/2020/10/nang-nguc.jpg"
                                                                 class="attachment-original size-original" alt=""
-                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/nang-nguc.jpg 388w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/nang-nguc-295x300.jpg 295w"
+                                                                srcset="/assets/wp-content/uploads/2020/10/nang-nguc.jpg 388w, /assets/wp-content/uploads/2020/10/nang-nguc-295x300.jpg 295w"
                                                                 sizes="(max-width: 388px) 100vw, 388px" />
                                                         </div>
                                                     </div>
@@ -2694,9 +2372,9 @@
                                                         <div class="image-cover" style="padding-top:71%;">
                                                             <img loading="lazy" decoding="async" width="388"
                                                                 height="395"
-                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/hut-mo.jpg"
+                                                                src="/assets/wp-content/uploads/2020/10/hut-mo.jpg"
                                                                 class="attachment-original size-original" alt=""
-                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/hut-mo.jpg 388w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/hut-mo-295x300.jpg 295w"
+                                                                srcset="/assets/wp-content/uploads/2020/10/hut-mo.jpg 388w, /assets/wp-content/uploads/2020/10/hut-mo-295x300.jpg 295w"
                                                                 sizes="(max-width: 388px) 100vw, 388px" />
                                                         </div>
                                                     </div>
@@ -2725,9 +2403,9 @@
                                                         <div class="image-cover" style="padding-top:71%;">
                                                             <img loading="lazy" decoding="async" width="388"
                                                                 height="395"
-                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg"
+                                                                src="/assets/wp-content/uploads/2020/10/cat-mi.jpg"
                                                                 class="attachment-original size-original" alt=""
-                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg 388w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
+                                                                srcset="/assets/wp-content/uploads/2020/10/cat-mi.jpg 388w, /assets/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
                                                                 sizes="(max-width: 388px) 100vw, 388px" />
                                                         </div>
                                                     </div>
@@ -2755,9 +2433,9 @@
                                                         <div class="image-cover" style="padding-top:71%;">
                                                             <img loading="lazy" decoding="async" width="388"
                                                                 height="395"
-                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg"
+                                                                src="/assets/wp-content/uploads/2020/10/cat-mi.jpg"
                                                                 class="attachment-original size-original" alt=""
-                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg 388w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
+                                                                srcset="/assets/wp-content/uploads/2020/10/cat-mi.jpg 388w, /assets/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
                                                                 sizes="(max-width: 388px) 100vw, 388px" />
                                                         </div>
                                                     </div>
@@ -2785,9 +2463,9 @@
                                                         <div class="image-cover" style="padding-top:71%;">
                                                             <img loading="lazy" decoding="async" width="388"
                                                                 height="395"
-                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg"
+                                                                src="/assets/wp-content/uploads/2020/10/cat-mi.jpg"
                                                                 class="attachment-original size-original" alt=""
-                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg 388w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
+                                                                srcset="/assets/wp-content/uploads/2020/10/cat-mi.jpg 388w, /assets/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
                                                                 sizes="(max-width: 388px) 100vw, 388px" />
                                                         </div>
                                                     </div>
@@ -2815,9 +2493,9 @@
                                                         <div class="image-cover" style="padding-top:71%;">
                                                             <img loading="lazy" decoding="async" width="388"
                                                                 height="395"
-                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg"
+                                                                src="/assets/wp-content/uploads/2020/10/cat-mi.jpg"
                                                                 class="attachment-original size-original" alt=""
-                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg 388w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
+                                                                srcset="/assets/wp-content/uploads/2020/10/cat-mi.jpg 388w, /assets/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
                                                                 sizes="(max-width: 388px) 100vw, 388px" />
                                                         </div>
                                                     </div>
@@ -2845,9 +2523,9 @@
                                                         <div class="image-cover" style="padding-top:71%;">
                                                             <img loading="lazy" decoding="async" width="388"
                                                                 height="395"
-                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg"
+                                                                src="/assets/wp-content/uploads/2020/10/cat-mi.jpg"
                                                                 class="attachment-original size-original" alt=""
-                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi.jpg 388w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
+                                                                srcset="/assets/wp-content/uploads/2020/10/cat-mi.jpg 388w, /assets/wp-content/uploads/2020/10/cat-mi-295x300.jpg 295w"
                                                                 sizes="(max-width: 388px) 100vw, 388px" />
                                                         </div>
                                                     </div>
@@ -2883,7 +2561,7 @@
                         }
 
                         #section_301332213 .section-bg.bg-loaded {
-                            background-image: url(https://spa8.mauthemewp.com/wp-content/uploads/2020/10/bg-section.jpg);
+                            background-image: url(/assets/wp-content/uploads/2020/10/bg-section.jpg);
                         }
                     </style>
                 </section>
@@ -2990,7 +2668,7 @@
                         }
 
                         #section_682428725 .section-bg.bg-loaded {
-                            background-image: url(https://spa8.mauthemewp.com/wp-content/uploads/2020/10/bg-section-2.jpg);
+                            background-image: url(/assets/wp-content/uploads/2020/10/bg-section-2.jpg);
                         }
                     </style>
                 </section>
@@ -3053,18 +2731,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3077,18 +2755,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3101,18 +2779,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3125,18 +2803,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3149,18 +2827,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3173,18 +2851,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3204,18 +2882,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3228,18 +2906,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3252,18 +2930,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3276,18 +2954,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3300,18 +2978,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3324,18 +3002,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3355,18 +3033,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3379,18 +3057,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3403,18 +3081,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3427,18 +3105,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3451,18 +3129,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3475,18 +3153,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3506,18 +3184,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3530,18 +3208,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3554,18 +3232,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3578,18 +3256,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3602,18 +3280,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3626,18 +3304,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3657,18 +3335,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3681,18 +3359,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3705,18 +3383,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3729,18 +3407,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3753,18 +3431,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3777,18 +3455,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3808,18 +3486,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3832,18 +3510,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3856,18 +3534,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3880,18 +3558,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3904,18 +3582,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3928,18 +3606,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3959,18 +3637,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -3983,18 +3661,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4007,18 +3685,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4031,18 +3709,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4055,18 +3733,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4079,18 +3757,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4110,18 +3788,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-1-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4134,18 +3812,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-2-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4158,18 +3836,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-3-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4182,18 +3860,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-4-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4206,18 +3884,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-5-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4230,18 +3908,18 @@
                                                     <div class="gallery-col col">
                                                         <div class="col-inner">
                                                             <a class="image-lightbox lightbox-gallery"
-                                                                href="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                href="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                 title="">
                                                                 <div class="box has-hover gallery-box box-none">
                                                                     <div class="box-image">
                                                                         <img loading="lazy" decoding="async" width="390"
                                                                             height="267"
-                                                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
+                                                                            src="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg"
                                                                             class="attachment-original size-original"
                                                                             alt="" ids="187,188,189,190,191,192"
                                                                             style="none" col_spacing="xsmall"
                                                                             columns="3" image_size="original"
-                                                                            srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
+                                                                            srcset="/assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1.jpg 390w, /assets/wp-content/uploads/2020/10/fh4-nangnguc-img-6-1-300x205.jpg 300w"
                                                                             sizes="(max-width: 390px) 100vw, 390px" />
                                                                     </div>
                                                                     <div class="box-text text-left">
@@ -4305,9 +3983,9 @@
                                         <a class="" href="/">
                                             <div class="img-inner dark">
                                                 <img loading="lazy" decoding="async" width="294" height="518"
-                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau1_truoc.jpg"
+                                                    src="/assets/wp-content/uploads/2020/10/fh3-mau1_truoc.jpg"
                                                     class="attachment-original size-original" alt=""
-                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau1_truoc.jpg 294w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau1_truoc-170x300.jpg 170w"
+                                                    srcset="/assets/wp-content/uploads/2020/10/fh3-mau1_truoc.jpg 294w, /assets/wp-content/uploads/2020/10/fh3-mau1_truoc-170x300.jpg 170w"
                                                     sizes="(max-width: 294px) 100vw, 294px" />
                                             </div>
                                         </a>
@@ -4321,9 +3999,9 @@
                                         <a class="" href="/">
                                             <div class="img-inner dark">
                                                 <img loading="lazy" decoding="async" width="294" height="518"
-                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau1_sau.jpg"
+                                                    src="/assets/wp-content/uploads/2020/10/fh3-mau1_sau.jpg"
                                                     class="attachment-original size-original" alt=""
-                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau1_sau.jpg 294w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau1_sau-170x300.jpg 170w"
+                                                    srcset="/assets/wp-content/uploads/2020/10/fh3-mau1_sau.jpg 294w, /assets/wp-content/uploads/2020/10/fh3-mau1_sau-170x300.jpg 170w"
                                                     sizes="(max-width: 294px) 100vw, 294px" />
                                             </div>
                                         </a>
@@ -4344,9 +4022,9 @@
                                         <a class="" href="/">
                                             <div class="img-inner dark">
                                                 <img loading="lazy" decoding="async" width="294" height="518"
-                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau2_truoc.jpg"
+                                                    src="/assets/wp-content/uploads/2020/10/fh3-mau2_truoc.jpg"
                                                     class="attachment-original size-original" alt=""
-                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau2_truoc.jpg 294w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau2_truoc-170x300.jpg 170w"
+                                                    srcset="/assets/wp-content/uploads/2020/10/fh3-mau2_truoc.jpg 294w, /assets/wp-content/uploads/2020/10/fh3-mau2_truoc-170x300.jpg 170w"
                                                     sizes="(max-width: 294px) 100vw, 294px" />
                                             </div>
                                         </a>
@@ -4360,9 +4038,9 @@
                                         <a class="" href="/">
                                             <div class="img-inner dark">
                                                 <img loading="lazy" decoding="async" width="294" height="518"
-                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau2_sau.jpg"
+                                                    src="/assets/wp-content/uploads/2020/10/fh3-mau2_sau.jpg"
                                                     class="attachment-original size-original" alt=""
-                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau2_sau.jpg 294w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau2_sau-170x300.jpg 170w"
+                                                    srcset="/assets/wp-content/uploads/2020/10/fh3-mau2_sau.jpg 294w, /assets/wp-content/uploads/2020/10/fh3-mau2_sau-170x300.jpg 170w"
                                                     sizes="(max-width: 294px) 100vw, 294px" />
                                             </div>
                                         </a>
@@ -4383,9 +4061,9 @@
                                         <a class="" href="/">
                                             <div class="img-inner dark">
                                                 <img loading="lazy" decoding="async" width="294" height="518"
-                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau3_truoc.jpg"
+                                                    src="/assets/wp-content/uploads/2020/10/fh3-mau3_truoc.jpg"
                                                     class="attachment-original size-original" alt=""
-                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau3_truoc.jpg 294w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau3_truoc-170x300.jpg 170w"
+                                                    srcset="/assets/wp-content/uploads/2020/10/fh3-mau3_truoc.jpg 294w, /assets/wp-content/uploads/2020/10/fh3-mau3_truoc-170x300.jpg 170w"
                                                     sizes="(max-width: 294px) 100vw, 294px" />
                                             </div>
                                         </a>
@@ -4399,9 +4077,9 @@
                                         <a class="" href="/">
                                             <div class="img-inner dark">
                                                 <img loading="lazy" decoding="async" width="294" height="518"
-                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau3_sau.jpg"
+                                                    src="/assets/wp-content/uploads/2020/10/fh3-mau3_sau.jpg"
                                                     class="attachment-original size-original" alt=""
-                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau3_sau.jpg 294w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau3_sau-170x300.jpg 170w"
+                                                    srcset="/assets/wp-content/uploads/2020/10/fh3-mau3_sau.jpg 294w, /assets/wp-content/uploads/2020/10/fh3-mau3_sau-170x300.jpg 170w"
                                                     sizes="(max-width: 294px) 100vw, 294px" />
                                             </div>
                                         </a>
@@ -4422,9 +4100,9 @@
                                         <a class="" href="/">
                                             <div class="img-inner dark">
                                                 <img loading="lazy" decoding="async" width="294" height="518"
-                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau4_truoc.jpg"
+                                                    src="/assets/wp-content/uploads/2020/10/fh3-mau4_truoc.jpg"
                                                     class="attachment-original size-original" alt=""
-                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau4_truoc.jpg 294w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau4_truoc-170x300.jpg 170w"
+                                                    srcset="/assets/wp-content/uploads/2020/10/fh3-mau4_truoc.jpg 294w, /assets/wp-content/uploads/2020/10/fh3-mau4_truoc-170x300.jpg 170w"
                                                     sizes="(max-width: 294px) 100vw, 294px" />
                                             </div>
                                         </a>
@@ -4438,9 +4116,9 @@
                                         <a class="" href="/">
                                             <div class="img-inner dark">
                                                 <img loading="lazy" decoding="async" width="294" height="518"
-                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau4_sau.jpg"
+                                                    src="/assets/wp-content/uploads/2020/10/fh3-mau4_sau.jpg"
                                                     class="attachment-original size-original" alt=""
-                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau4_sau.jpg 294w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/fh3-mau4_sau-170x300.jpg 170w"
+                                                    srcset="/assets/wp-content/uploads/2020/10/fh3-mau4_sau.jpg 294w, /assets/wp-content/uploads/2020/10/fh3-mau4_sau-170x300.jpg 170w"
                                                     sizes="(max-width: 294px) 100vw, 294px" />
                                             </div>
                                         </a>
@@ -4464,7 +4142,7 @@
                         }
 
                         #section_1717685338 .section-bg.bg-loaded {
-                            background-image: url(https://spa8.mauthemewp.com/wp-content/uploads/2020/10/bg-section-5.jpg);
+                            background-image: url(/assets/wp-content/uploads/2020/10/bg-section-5.jpg);
                         }
                     </style>
                 </section>
@@ -4505,10 +4183,10 @@
                                                                             aria-label="ĐẠI TIỆC THẨM MỸ – TRI ÂN PHỤ NỮ VIỆT">
                                                                             <img loading="lazy" decoding="async"
                                                                                 width="600" height="402"
-                                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc5.jpg"
+                                                                                src="/assets/wp-content/uploads/2020/10/tin-tuc5.jpg"
                                                                                 class="attachment-original size-original wp-post-image"
                                                                                 alt=""
-                                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc5.jpg 600w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc5-300x201.jpg 300w"
+                                                                                srcset="/assets/wp-content/uploads/2020/10/tin-tuc5.jpg 600w, /assets/wp-content/uploads/2020/10/tin-tuc5-300x201.jpg 300w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px" />
                                                                         </a>
                                                                     </div>
@@ -4560,10 +4238,10 @@
                                                                             aria-label="ƯU ĐÃI “VÀNG” 7 NGÀY LÀM ĐẸP CÙNG PHỤ NỮ VIỆT: ĐẸP HƠN – HẠNH PHÚC HƠN">
                                                                             <img loading="lazy" decoding="async"
                                                                                 width="1920" height="1080"
-                                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc4.jpg"
+                                                                                src="/assets/wp-content/uploads/2020/10/tin-tuc4.jpg"
                                                                                 class="attachment-original size-original wp-post-image"
                                                                                 alt=""
-                                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc4.jpg 1920w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc4-300x169.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc4-1024x576.jpg 1024w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc4-768x432.jpg 768w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc4-1536x864.jpg 1536w"
+                                                                                srcset="/assets/wp-content/uploads/2020/10/tin-tuc4.jpg 1920w, /assets/wp-content/uploads/2020/10/tin-tuc4-300x169.jpg 300w, /assets/wp-content/uploads/2020/10/tin-tuc4-1024x576.jpg 1024w, /assets/wp-content/uploads/2020/10/tin-tuc4-768x432.jpg 768w, /assets/wp-content/uploads/2020/10/tin-tuc4-1536x864.jpg 1536w"
                                                                                 sizes="(max-width: 1920px) 100vw, 1920px" />
                                                                         </a>
                                                                     </div>
@@ -4598,10 +4276,10 @@
                                                                             aria-label="NGÀY VÀNG GIÁ SỐC – ĐÓN SINH NHẬT CÙNG THU CÚC MEGA BEAUTY">
                                                                             <img loading="lazy" decoding="async"
                                                                                 width="600" height="400"
-                                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc3.jpg"
+                                                                                src="/assets/wp-content/uploads/2020/10/tin-tuc3.jpg"
                                                                                 class="attachment-original size-original wp-post-image"
                                                                                 alt=""
-                                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc3.jpg 600w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc3-300x200.jpg 300w"
+                                                                                srcset="/assets/wp-content/uploads/2020/10/tin-tuc3.jpg 600w, /assets/wp-content/uploads/2020/10/tin-tuc3-300x200.jpg 300w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px" />
                                                                         </a>
                                                                     </div>
@@ -4635,10 +4313,10 @@
                                                                             aria-label="ƯU ĐÃI TUẦN VÀNG – LÀM ĐẸP DỄ DÀNG">
                                                                             <img loading="lazy" decoding="async"
                                                                                 width="600" height="400"
-                                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc2.jpg"
+                                                                                src="/assets/wp-content/uploads/2020/10/tin-tuc2.jpg"
                                                                                 class="attachment-original size-original wp-post-image"
                                                                                 alt=""
-                                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc2.jpg 600w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc2-300x200.jpg 300w"
+                                                                                srcset="/assets/wp-content/uploads/2020/10/tin-tuc2.jpg 600w, /assets/wp-content/uploads/2020/10/tin-tuc2-300x200.jpg 300w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px" />
                                                                         </a>
                                                                     </div>
@@ -4672,10 +4350,10 @@
                                                                             aria-label="CƠ HỘI CUỐI SĂN ƯU ĐÃI LỚN NHẤT THÁNG 10: OFF 50%">
                                                                             <img loading="lazy" decoding="async"
                                                                                 width="600" height="600"
-                                                                                src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc1.jpg"
+                                                                                src="/assets/wp-content/uploads/2020/10/tin-tuc1.jpg"
                                                                                 class="attachment-original size-original wp-post-image"
                                                                                 alt=""
-                                                                                srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc1.jpg 600w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc1-300x300.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tin-tuc1-150x150.jpg 150w"
+                                                                                srcset="/assets/wp-content/uploads/2020/10/tin-tuc1.jpg 600w, /assets/wp-content/uploads/2020/10/tin-tuc1-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/tin-tuc1-150x150.jpg 150w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px" />
                                                                         </a>
                                                                     </div>
@@ -4725,10 +4403,10 @@
                                                                 aria-label="Chăm sóc sau khi nâng chân mày thế nào để nhanh lành?">
                                                                 <img loading="lazy" decoding="async" width="300"
                                                                     height="300"
-                                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-1-300x300.jpg"
+                                                                    src="/assets/wp-content/uploads/2020/10/tu-van-1-300x300.jpg"
                                                                     class="attachment-medium size-medium wp-post-image"
                                                                     alt=""
-                                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-1-300x300.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-1-150x150.jpg 150w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-1.jpg 600w"
+                                                                    srcset="/assets/wp-content/uploads/2020/10/tu-van-1-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/tu-van-1-150x150.jpg 150w, /assets/wp-content/uploads/2020/10/tu-van-1.jpg 600w"
                                                                     sizes="(max-width: 300px) 100vw, 300px" /> </a>
                                                         </div>
                                                     </div>
@@ -4760,10 +4438,10 @@
                                                                 aria-label="Phun môi collagen giá bao nhiêu tiền 1 lần?">
                                                                 <img loading="lazy" decoding="async" width="300"
                                                                     height="200"
-                                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-4-300x200.jpg"
+                                                                    src="/assets/wp-content/uploads/2020/10/tu-van-4-300x200.jpg"
                                                                     class="attachment-medium size-medium wp-post-image"
                                                                     alt=""
-                                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-4-300x200.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-4.jpg 768w"
+                                                                    srcset="/assets/wp-content/uploads/2020/10/tu-van-4-300x200.jpg 300w, /assets/wp-content/uploads/2020/10/tu-van-4.jpg 768w"
                                                                     sizes="(max-width: 300px) 100vw, 300px" /> </a>
                                                         </div>
                                                     </div>
@@ -4795,10 +4473,10 @@
                                                                 aria-label="Phun môi có đánh son được không? Sau bao lâu thì được đánh son?">
                                                                 <img loading="lazy" decoding="async" width="300"
                                                                     height="167"
-                                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-3-300x167.jpg"
+                                                                    src="/assets/wp-content/uploads/2020/10/tu-van-3-300x167.jpg"
                                                                     class="attachment-medium size-medium wp-post-image"
                                                                     alt=""
-                                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-3-300x167.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-3.jpg 600w"
+                                                                    srcset="/assets/wp-content/uploads/2020/10/tu-van-3-300x167.jpg 300w, /assets/wp-content/uploads/2020/10/tu-van-3.jpg 600w"
                                                                     sizes="(max-width: 300px) 100vw, 300px" /> </a>
                                                         </div>
                                                     </div>
@@ -4845,10 +4523,10 @@
                                                                 aria-label="Điêu khắc lông mày được bao lâu?">
                                                                 <img loading="lazy" decoding="async" width="300"
                                                                     height="167"
-                                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-3-300x167.jpg"
+                                                                    src="/assets/wp-content/uploads/2020/10/tu-van-3-300x167.jpg"
                                                                     class="attachment-medium size-medium wp-post-image"
                                                                     alt=""
-                                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-3-300x167.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-3.jpg 600w"
+                                                                    srcset="/assets/wp-content/uploads/2020/10/tu-van-3-300x167.jpg 300w, /assets/wp-content/uploads/2020/10/tu-van-3.jpg 600w"
                                                                     sizes="(max-width: 300px) 100vw, 300px" /> </a>
                                                         </div>
                                                     </div>
@@ -4879,10 +4557,10 @@
                                                                 aria-label="Điêu khắc lông mày hỏng có sửa được không?">
                                                                 <img loading="lazy" decoding="async" width="300"
                                                                     height="200"
-                                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-4-300x200.jpg"
+                                                                    src="/assets/wp-content/uploads/2020/10/tu-van-4-300x200.jpg"
                                                                     class="attachment-medium size-medium wp-post-image"
                                                                     alt=""
-                                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-4-300x200.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-4.jpg 768w"
+                                                                    srcset="/assets/wp-content/uploads/2020/10/tu-van-4-300x200.jpg 300w, /assets/wp-content/uploads/2020/10/tu-van-4.jpg 768w"
                                                                     sizes="(max-width: 300px) 100vw, 300px" /> </a>
                                                         </div>
                                                     </div>
@@ -4914,10 +4592,10 @@
                                                                 aria-label="Có nên điêu khắc lông mày không?">
                                                                 <img loading="lazy" decoding="async" width="300"
                                                                     height="300"
-                                                                    src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-1-300x300.jpg"
+                                                                    src="/assets/wp-content/uploads/2020/10/tu-van-1-300x300.jpg"
                                                                     class="attachment-medium size-medium wp-post-image"
                                                                     alt=""
-                                                                    srcset="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-1-300x300.jpg 300w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-1-150x150.jpg 150w, https://spa8.mauthemewp.com/wp-content/uploads/2020/10/tu-van-1.jpg 600w"
+                                                                    srcset="/assets/wp-content/uploads/2020/10/tu-van-1-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/tu-van-1-150x150.jpg 150w, /assets/wp-content/uploads/2020/10/tu-van-1.jpg 600w"
                                                                     sizes="(max-width: 300px) 100vw, 300px" /> </a>
                                                         </div>
                                                     </div>
@@ -4953,7 +4631,7 @@
                         }
 
                         #section_1291925246 .section-bg.bg-loaded {
-                            background-image: url(https://spa8.mauthemewp.com/wp-content/uploads/2020/10/bg-tin-tuc-section.jpg);
+                            background-image: url(/assets/wp-content/uploads/2020/10/bg-tin-tuc-section.jpg);
                         }
                     </style>
                 </section>
@@ -4979,7 +4657,7 @@
                                             <div class="icon">
                                                 <div class="icon-inner">
                                                     <img loading="lazy" decoding="async" width="59" height="59"
-                                                        src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/icon-hotline.png"
+                                                        src="/assets/wp-content/uploads/2020/10/icon-hotline.png"
                                                         class="attachment-medium size-medium" alt="" />
                                                 </div>
                                             </div>
@@ -5006,7 +4684,7 @@
                                             <div class="icon">
                                                 <div class="icon-inner">
                                                     <img loading="lazy" decoding="async" width="59" height="59"
-                                                        src="https://spa8.mauthemewp.com/wp-content/uploads/2020/10/icon-dat-lich.png"
+                                                        src="/assets/wp-content/uploads/2020/10/icon-dat-lich.png"
                                                         class="attachment-medium size-medium" alt="" />
                                                 </div>
                                             </div>
@@ -5096,297 +4774,12 @@
 
         </main>
 
-        <footer id="footer" class="footer-wrapper">
-
-            <section class="section footer-section dark" id="section_22949667">
-                <div class="bg section-bg fill bg-fill  ">
-
-
-
-
-
-                </div>
-
-
-
-                <div class="section-content relative">
-
-
-                    <div class="row" id="row-304338368">
-
-
-                        <div id="col-1834182212" class="col medium-4 small-12 large-4">
-                            <div class="col-inner">
-
-
-
-                                <div class="ux-logo has-hover align-middle ux_logo inline-block"
-                                    style="max-width: 100%!important; width: 206.47058823529px!important">
-                                    <div class="ux-logo-link block image-" title="" href="" style="padding: 15px;"><img
-                                            src="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/partner-06.png"
-                                            title="" alt="" class="ux-logo-image block" style="height:50px;" /></div>
-                                </div>
-
-                                <div class="content-contact clearfix dia-chi">
-                                    <ul>
-                                        <li><b>Địa chỉ: </b>323/5 Khu phố 3, đường HT12, phường Hiệp Thành, quận 12,
-                                            TPHCM</li>
-                                    </ul>
-                                </div>
-                                <div class="content-contact clearfix dien-thoai">
-                                    <ul>
-                                        <li><b>Hotline: </b><a href="tell:0903361686">0903.361.686</a></li>
-                                    </ul>
-                                </div>
-                                <p><em>Giấy phép hoạt động số 1542/SYT-GPHĐ -</em><br /><em>Chứng chỉ hành nghề số
-                                        2473/HNO-CCHN -</em><br /><em>Giấy chứng nhận KD số 01A8013838</em></p>
-                                <div class="social-icons follow-icons"><a href="http://url" target="_blank"
-                                        data-label="Facebook" class="icon primary button circle facebook tooltip"
-                                        title="Theo dõi trên Facebook" aria-label="Theo dõi trên Facebook"
-                                        rel="noopener nofollow"><i class="icon-facebook"></i></a><a href="http://url"
-                                        target="_blank" data-label="Instagram"
-                                        class="icon primary button circle instagram tooltip"
-                                        title="Theo dõi trên Instagram" aria-label="Theo dõi trên Instagram"
-                                        rel="noopener nofollow"><i class="icon-instagram"></i></a><a href="http://url"
-                                        data-label="Twitter" target="_blank"
-                                        class="icon primary button circle twitter tooltip" title="Theo dõi trên Twitter"
-                                        aria-label="Theo dõi trên Twitter" rel="noopener nofollow"><i
-                                            class="icon-twitter"></i></a><a href="mailto:your@email" data-label="E-mail"
-                                        target="_blank" class="icon primary button circle email tooltip"
-                                        title="Gửi email cho chúng tôi" aria-label="Gửi email cho chúng tôi"
-                                        rel="nofollow noopener"><i class="icon-envelop"></i></a></div>
-
-
-                            </div>
-                        </div>
-
-
-
-                        <div id="col-662721862" class="col medium-4 small-12 large-4">
-                            <div class="col-inner">
-
-
-
-                                <div class="container section-title-container">
-                                    <h4 class="section-title section-title-normal"><b></b><span
-                                            class="section-title-main">dịch vụ nổi bật</span><b></b></h4>
-                                </div>
-
-                                <ul id="menu-dich-vu-noi-bat-1" class="menu">
-                                    <li id="menu-item-416"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-416"><a
-                                            href="https://spa1.az9s.group/#">Phun môi thẩm mỹ</a></li>
-                                    <li id="menu-item-417"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417"><a
-                                            href="https://spa1.az9s.group/#">Nâng mũi Sline</a></li>
-                                    <li id="menu-item-418"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-418"><a
-                                            href="https://spa1.az9s.group/#">Trị nám mặt sau sinh</a></li>
-                                    <li id="menu-item-419"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-419"><a
-                                            href="https://spa1.az9s.group/#">Tạo mặt V-line sau 90 phút</a></li>
-                                    <li id="menu-item-420"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420"><a
-                                            href="https://spa1.az9s.group/#">Căng da mặt không phẫu thuật</a></li>
-                                    <li id="menu-item-419"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-419"><a
-                                            href="https://spa1.az9s.group/#">Tạo mặt V-line sau 90 phút</a></li>
-                                    <li id="menu-item-420"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420"><a
-                                            href="https://spa1.az9s.group/#">Căng da mặt không phẫu thuật</a></li>
-                                </ul>
-
-                            </div>
-                        </div>
-
-
-
-                        <div id="col-194654097" class="col medium-4 small-12 large-4">
-                            <div class="col-inner">
-
-
-
-                                <div class="container section-title-container">
-                                    <h4 class="section-title section-title-normal"><b></b><span
-                                            class="section-title-main">chỉ đường</span><b></b></h4>
-                                </div>
-
-                                <p><iframe
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d501725.418469113!2d106.36557920102145!3d10.755292848486626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529292e8d3dd1%3A0xf15f5aad773c112b!2zVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1707112601018!5m2!1svi!2s"
-                                        width="600" height="250" style="border:0;" allowfullscreen="" loading="lazy"
-                                        referrerpolicy="no-referrer-when-downgrade"></iframe></p>
-
-
-                            </div>
-                        </div>
-
-
-
-                    </div>
-
-                </div>
-
-
-                <style>
-                    #section_22949667 {
-                        padding-top: 30px;
-                        padding-bottom: 30px;
-                    }
-
-                    #section_22949667 .section-bg.bg-loaded {
-                        background-image: url(https://spa8.mauthemewp.com/wp-content/uploads/2020/10/bg-footer.jpg);
-                    }
-                </style>
-            </section>
-
-            <div class="absolute-footer dark medium-text-center text-center">
-                <div class="container clearfix">
-
-
-                    <div class="footer-primary pull-left">
-                        <div class="copyright-footer">
-                            Copyright 2025 © <strong>Thẩm Mỹ viện</strong> </div>
-                    </div>
-                </div>
-            </div>
-
-            <a href="#top"
-                class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle"
-                id="top-link" aria-label="Lên đầu trang"><i class="icon-angle-up"></i></a>
-
-        </footer>
+        @livewire('inc.footer')
 
     </div>
 
-    <div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+    @livewire('inc.menu')
 
-
-        <div class="sidebar-menu no-scrollbar ">
-
-
-            <ul class="nav nav-sidebar nav-vertical nav-uppercase" data-tab="1">
-                <li
-                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-718 current_page_item menu-item-818 has-icon-left">
-                    <a href="https://spa8.mauthemewp.com/" aria-current="page"><img class="ux-sidebar-menu-icon"
-                            width="20" height="20"
-                            src="https://spa8.mauthemewp.com/wp-content/uploads/2024/02/1490971322-map-icons-4_82748-150x150.png"
-                            alt="" />Trang chủ</a></li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-819"><a
-                        href="/gioi-thieu">Giới thiệu</a></li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a
-                        href="https://spa8.mauthemewp.com/bang-gia/">Bảng giá</a></li>
-                <li
-                    class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-577">
-                    <a href="https://spa8.mauthemewp.com/category/tham-my-mat/">Thẩm mỹ mặt</a>
-                    <ul class="sub-menu nav-sidebar-ul children">
-                        <li
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-710">
-                            <a href="https://spa8.mauthemewp.com/category/tham-my-mat/tham-my-mat-tham-my-mat/">Thẩm mỹ
-                                mắt</a>
-                            <ul class="sub-menu nav-sidebar-ul">
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-736"><a
-                                        href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nanocell-4-0-cat-mi-laser-an-toan-chuan-my/">Cắt
-                                        mí Pro Mini</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-735"><a
-                                        href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nano-plasma/">Cắt mí
-                                        Nano Plasma</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-737"><a
-                                        href="https://spa8.mauthemewp.com/cay-mo-hoc-mat/">Cấy mỡ hốc mắt</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-738"><a
-                                        href="https://spa8.mauthemewp.com/mo-rong-goc-mat/">Mở rộng góc mắt</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-739"><a
-                                        href="https://spa8.mauthemewp.com/nang-cung-may/">Nâng cung mày</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-744"><a
-                                        href="https://spa8.mauthemewp.com/tao-hinh-sup-mi-bam-sinh/">Tạo hình Sụp mí bẩm
-                                        sinh</a></li>
-                            </ul>
-                        </li>
-                        <li
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-711">
-                            <a href="https://spa8.mauthemewp.com/category/tham-my-mat/tham-my-mui/">Thẩm mỹ mũi</a>
-                            <ul class="sub-menu nav-sidebar-ul">
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-740"><a
-                                        href="https://spa8.mauthemewp.com/nang-mui-biscell/">Nâng mũi BisCell</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-741"><a
-                                        href="https://spa8.mauthemewp.com/nang-mui-high-line/">Nâng mũi High-line</a>
-                                </li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-742"><a
-                                        href="https://spa8.mauthemewp.com/nang-mui-nanocell-4-0/">Nâng mũi NanoCell
-                                        4.0</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-743"><a
-                                        href="https://spa8.mauthemewp.com/rut-chat-lieu-mui-la-gi/">Rút chất liệu mũi là
-                                        gì</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-745"><a
-                                        href="https://spa8.mauthemewp.com/thu-gon-canh-mui/">Thu gọn cánh mũi</a></li>
-                            </ul>
-                        </li>
-                        <li
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-709">
-                            <a href="https://spa8.mauthemewp.com/category/tham-my-mat/tham-my-khong-phau-thuat/">Thẩm mỹ
-                                không phẫu thuật</a>
-                            <ul class="sub-menu nav-sidebar-ul">
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-717"><a
-                                        href="#">Tiêm Ruvederm</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-720"><a
-                                        href="#">Xóa nhăn</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-721"><a
-                                        href="#">Thu gọn mặt bằng Beauteam</a></li>
-                            </ul>
-                        </li>
-                        <li
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-579">
-                            <a href="https://spa8.mauthemewp.com/category/tham-my-mat/cay-mo/">Cấy mỡ</a>
-                            <ul class="sub-menu nav-sidebar-ul">
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-712"><a
-                                        href="#">Cấy mỡ toàn mặt Ultra Fat</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-713"><a
-                                        href="#">Cấy mỡ má hóp Ultra Fat</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-714"><a
-                                        href="#">Cấy mỡ trán Ultra Fat</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-715"><a
-                                        href="#">Cấy mỡ Vaser Fat</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-716"><a
-                                        href="#">Cấy mỡ thái dương Ultra Fat</a></li>
-                            </ul>
-                        </li>
-                        <li
-                            class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-580">
-                            <a href="https://spa8.mauthemewp.com/category/tham-my-mat/tham-my-khac/">Thẩm mỹ khác</a>
-                            <ul class="sub-menu nav-sidebar-ul">
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-722"><a
-                                        href="#">Tạo má lúm đồng tiền</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-723"><a
-                                        href="#">Tạo môi trái tim</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-725"><a
-                                        href="#">Độn cằm V-line</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-724"><a
-                                        href="#">Thu mỏng môi</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-727"><a
-                                        href="#">Căng da mặt</a></li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-726"><a
-                                        href="#">Nâng gò má</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-578"><a
-                        href="https://spa8.mauthemewp.com/category/tham-my-voc-dang/">Thẩm mỹ vóc dáng</a></li>
-                <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-575"><a
-                        href="https://spa8.mauthemewp.com/category/phun-xam-tham-my/">Phun xăm thẩm mỹ</a></li>
-                <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-576"><a
-                        href="https://spa8.mauthemewp.com/category/tham-my-cong-nghe-cao/">Thẩm mỹ công nghệ cao</a>
-                </li>
-                <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-574"><a
-                        href="https://spa8.mauthemewp.com/category/dich-vu-khac/">Dịch vụ khác</a></li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-820"><a
-                        href="/lien-he">Liên hệ</a></li>
-            </ul>
-
-
-        </div>
-
-
-    </div>
     <style>
         .float-contact {
             position: fixed;
@@ -5438,54 +4831,8 @@
             }
         }
     </style>
-    <div class="float-contact">
-        <button class="chat-zalo">
-            <a href="http://zalo.me/xxx">Chat Zalo</a>
-        </button>
-        <button class="chat-face">
-            <a href="http://m.me/xxx">Chat Facebook</a>
-        </button>
-        <button class="hotline">
-            <a href="tel:09999999">Hotline: 09999999</a>
-        </button>
-    </div>
+        @livewire('inc.contact')
 
-
-    <section id="azt-contact-footer-outer">
-        <div id="azt-contact-footer">
-            <a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay">
-                <img src="/wp-content/uploads/2023/05/menu.png" alt="menu"><span>Menu</span></span></a>
-            <a href="/lien-he">
-                <span>
-                    <img src="/wp-content/uploads/2023/05/button-contact-3399.jpg" alt="Kho theme">
-                    <span class="azt-contact-footer-btn-label">liên hệ</span>
-                </span>
-            </a>
-            <a id="azt-contact-footer-btn-center" href="tel:0909 999 999">
-                <span class="azt-contact-footer-btn-center-icon">
-                    <span class="phone-vr-circle-fill"></span>
-                    <img src="/wp-content/uploads/2023/05/button-contact-3399-2.jpg" alt="Gọi ngay">
-                </span>
-                <span>
-                    <span class="azt-contact-footer-btn-label">
-                        <span>Gọi ngay</span>
-                    </span>
-                </span>
-            </a>
-            <a href="https://facebook.com/" target="_blank">
-                <span>
-                    <img src="/wp-content/uploads/2023/05/button-contact-3399-3.jpg" alt="Messenger">
-                    <span class="azt-contact-footer-btn-label">Messenger</span>
-                </span>
-            </a>
-            <a href="https://zalo.me/0909 999 999" target="_blank">
-                <span>
-                    <img class="zalo-icon" src="/wp-content/uploads/2023/05/zalo-150x150-1.png" alt="Zalo">
-                    <span class="azt-contact-footer-btn-label">Zalo</span>
-                </span>
-            </a>
-        </div>
-    </section>
     <style>
         #azt-contact-footer-outer {
             position: fixed;
@@ -5499,7 +4846,7 @@
             content: "";
             position: absolute;
             pointer-events: none;
-            background-image: url(/wp-content/uploads/2023/05/mb-footer-bg.svg);
+            background-image: url(/assets/wp-content/uploads/2023/05/mb-footer-bg.svg);
             background-color: unset;
             background-position: center top;
             background-repeat: no-repeat;
@@ -6052,7 +5399,7 @@
         }
     </style>
     <script type="text/javascript"
-        src="https://spa8.mauthemewp.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.7"
+        src="/assets/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.7"
         id="swv-js"></script>
     <script type="text/javascript" id="contact-form-7-js-extra">
         /* <![CDATA[ */
@@ -6060,12 +5407,12 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="https://spa8.mauthemewp.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.7"
+        src="/assets/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.7"
         id="contact-form-7-js"></script>
     <script type="text/javascript"
-        src="https://spa8.mauthemewp.com/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1"
+        src="/assets/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1"
         id="flatsome-instant-page-js"></script>
-    <script type="text/javascript" src="https://spa8.mauthemewp.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2"
+    <script type="text/javascript" src="/assets/wp-includes/js/hoverIntent.min.js?ver=1.10.2"
         id="hoverIntent-js"></script>
     <script type="text/javascript" id="flatsome-js-js-extra">
         /* <![CDATA[ */
@@ -6073,7 +5420,7 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="https://spa8.mauthemewp.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3"
+        src="/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3"
         id="flatsome-js-js"></script>
 
 </body>

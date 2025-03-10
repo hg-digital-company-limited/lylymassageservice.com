@@ -1,12 +1,11 @@
 <div>
-
     <head>
         <meta charset="UTF-8" />
         <link rel="profile" href="http://gmpg.org/xfn/11" />
         <link rel="pingback" href="https://spa8.mauthemewp.com/xmlrpc.php" />
 
         <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
-        <title>Thẩm mỹ mặt &#8211; Mẫu theme wordpress spa làm đẹp</title>
+        <title>Trang chủ &#8211; Mẫu theme wordpress spa làm đẹp</title>
         <meta name='robots' content='noindex, nofollow' />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel='dns-prefetch' href='//use.fontawesome.com' />
@@ -22,9 +21,6 @@
             href="https://spa8.mauthemewp.com/feed/" />
         <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Mẫu theme wordpress spa làm đẹp &raquo;"
             href="https://spa8.mauthemewp.com/comments/feed/" />
-        <link rel="alternate" type="application/rss+xml"
-            title="Dòng thông tin chuyên mục Mẫu theme wordpress spa làm đẹp &raquo; Thẩm mỹ mặt"
-            href="https://spa8.mauthemewp.com/category/tham-my-mat/feed/" />
         <link rel='stylesheet' id='contact-form-7-css'
             href='/assets/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7'
             type='text/css' media='all' />
@@ -58,9 +54,15 @@
         <script type="text/javascript" src="/assets/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
             id="jquery-core-js"></script>
         <link rel="https://api.w.org/" href="/assets/wp-json/" />
-        <link rel="alternate" type="application/json" href="/assets/wp-json/wp/v2/categories/6" />
+        <link rel="alternate" type="application/json" href="/assets/wp-json/wp/v2/pages/838" />
         <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://spa8.mauthemewp.com/xmlrpc.php?rsd" />
 
+        <link rel="canonical" href="https://spa8.mauthemewp.com/lien-he/" />
+        <link rel='shortlink' href='https://spa8.mauthemewp.com/?p=838' />
+        <link rel="alternate" type="application/json+oembed"
+            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2Flien-he%2F" />
+        <link rel="alternate" type="text/xml+oembed"
+            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2Flien-he%2F&#038;format=xml" />
         <style>
             #category-posts-2-internal ul {
                 padding: 0;
@@ -2060,12 +2062,13 @@
     </head>
 
     <body
-        class="archive category category-tham-my-mat category-6 lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+        class="page-template page-template-page-blank page-template-page-blank-php page page-id-838 lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
 
 
         <a class="skip-link screen-reader-text" href="#main">Chuyển đến nội dung</a>
 
         <div id="wrapper">
+
 
             @livewire('inc.header')
 
@@ -2073,607 +2076,225 @@
 
             <main id="main" class="">
 
-                <div id="content" class="blog-wrapper blog-archive page-wrapper">
-                    <header class="archive-page-header">
-                        <div class="row">
-                            <div class="large-12 text-center col">
-                                <h1 class="page-title is-large uppercase">
-                                    <span>Thẩm mỹ mặt</span>
-                                </h1>
-                            </div>
-                        </div>
-                    </header>
+
+                <div id="content" role="main" class="content-area">
 
 
-                    <div class="row row-large row-divided ">
+                    <div class="slider-wrapper relative slider-section" id="slider-1904140091">
+                        <div class="slider slider-nav-dots-simple slider-nav-circle slider-nav-large slider-nav-light slider-style-normal"
+                            data-flickity-options='{
+            "cellAlign": "center",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": false,
+            "wrapAround": true,
+            "autoPlay": 6000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'>
 
-                        <div class="large-9 col">
-                            <div id="post-list">
-
-
-
-                                <div class="row large-columns-1 medium-columns- small-columns-1">
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/rut-chat-lieu-mui-la-gi/"
-                                                            class="plain" aria-label="Rút chất liệu mũi là gì">
-                                                            <img width="300" height="230"
-                                                                src="/assets/wp-content/uploads/2020/10/canh-bao-rut-chat-lieu-mui-la-gi-khi-nao-nen-thuc-hien7-300x230.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/canh-bao-rut-chat-lieu-mui-la-gi-khi-nao-nen-thuc-hien7-300x230.jpg 300w, /assets/wp-content/uploads/2020/10/canh-bao-rut-chat-lieu-mui-la-gi-khi-nao-nen-thuc-hien7.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/rut-chat-lieu-mui-la-gi/"
-                                                                class="plain">Rút chất liệu mũi là gì</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Nâng mũi là một trong những xu hướng làm đẹp hot nhất hiện
-                                                            nay. Tuy... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/thu-gon-canh-mui/"
-                                                            class="plain" aria-label="Thu gọn cánh mũi">
-                                                            <img width="300" height="218"
-                                                                src="/assets/wp-content/uploads/2020/10/thu-gon-canh-mui-4-300x218.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/thu-gon-canh-mui-4-300x218.jpg 300w, /assets/wp-content/uploads/2020/10/thu-gon-canh-mui-4.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/thu-gon-canh-mui/"
-                                                                class="plain">Thu gọn cánh mũi</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Phương pháp phẫu thuật thu gọn cánh mũi (cắt cánh mũi) tại
-                                                            Hệ thống Thẩm mỹ Thu Cúc... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/nang-mui-high-line/"
-                                                            class="plain" aria-label="Nâng mũi High-line">
-                                                            <img width="300" height="300"
-                                                                src="/assets/wp-content/uploads/2020/10/nang-mui-high-line-2-300x300.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/nang-mui-high-line-2-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/nang-mui-high-line-2-150x150.jpg 150w, /assets/wp-content/uploads/2020/10/nang-mui-high-line-2.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/nang-mui-high-line/"
-                                                                class="plain">Nâng mũi High-line</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Theo nhân tướng học, chiếc mũi có vị trí quan trọng để nhận
-                                                            biết về... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/nang-mui-nanocell-4-0/"
-                                                            class="plain" aria-label="Nâng mũi NanoCell 4.0">
-                                                            <img width="300" height="204"
-                                                                src="/assets/wp-content/uploads/2020/10/nang-mui-nanocell-16-300x204.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/nang-mui-nanocell-16-300x204.jpg 300w, /assets/wp-content/uploads/2020/10/nang-mui-nanocell-16.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/nang-mui-nanocell-4-0/"
-                                                                class="plain">Nâng mũi NanoCell 4.0</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Công nghệ nâng mũi High-Line NanoCell 4.0 mới nhất tại Thu
-                                                            Cúc được “đo ni... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/nang-mui-biscell/"
-                                                            class="plain" aria-label="Nâng mũi BisCell">
-                                                            <img width="300" height="300"
-                                                                src="/assets/wp-content/uploads/2020/10/nang-mui-biscell-4-300x300.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/nang-mui-biscell-4-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/nang-mui-biscell-4-150x150.jpg 150w, /assets/wp-content/uploads/2020/10/nang-mui-biscell-4.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/nang-mui-biscell/"
-                                                                class="plain">Nâng mũi BisCell</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Công nghệ nâng mũi BisCell là công nghệ nâng mũi mới nhất,
-                                                            hiện đại nhất... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/tao-hinh-sup-mi-bam-sinh/"
-                                                            class="plain" aria-label="Tạo hình Sụp mí bẩm sinh">
-                                                            <img width="300" height="275"
-                                                                src="/assets/wp-content/uploads/2020/10/sup-mi-bam-sinh-6-300x275.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/sup-mi-bam-sinh-6-300x275.jpg 300w, /assets/wp-content/uploads/2020/10/sup-mi-bam-sinh-6.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/tao-hinh-sup-mi-bam-sinh/"
-                                                                class="plain">Tạo hình Sụp mí bẩm sinh</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Sụp mí bẩm sinh không chỉ gây mất thẩm mỹ mà còn ảnh hưởng
-                                                            nhiều... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/mo-rong-goc-mat/"
-                                                            class="plain" aria-label="Mở rộng góc mắt">
-                                                            <img width="300" height="237"
-                                                                src="/assets/wp-content/uploads/2020/10/96372996_3233515503368018_4629360027893760000_o-300x237.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/96372996_3233515503368018_4629360027893760000_o-300x237.jpg 300w, /assets/wp-content/uploads/2020/10/96372996_3233515503368018_4629360027893760000_o.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/mo-rong-goc-mat/"
-                                                                class="plain">Mở rộng góc mắt</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Phương pháp mở rộng góc mắt ra đời giống như một phép màu
-                                                            giúp nàng không may... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/cay-mo-hoc-mat/"
-                                                            class="plain" aria-label="Cấy mỡ hốc mắt">
-                                                            <img width="300" height="256"
-                                                                src="/assets/wp-content/uploads/2020/10/96243980_3241418309244404_2262902871081091072_o-300x256.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/96243980_3241418309244404_2262902871081091072_o-300x256.jpg 300w, /assets/wp-content/uploads/2020/10/96243980_3241418309244404_2262902871081091072_o.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/cay-mo-hoc-mat/"
-                                                                class="plain">Cấy mỡ hốc mắt</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Hốc mắt sâu trũng khiến cho ánh nhìn già nua thiếu sức sống.
-                                                            Độn mắt sâu tại... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/nang-cung-may/"
-                                                            class="plain" aria-label="Nâng cung mày">
-                                                            <img width="300" height="193"
-                                                                src="/assets/wp-content/uploads/2020/10/treo-chan-may-1-300x193.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/treo-chan-may-1-300x193.jpg 300w, /assets/wp-content/uploads/2020/10/treo-chan-may-1.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/nang-cung-may/"
-                                                                class="plain">Nâng cung mày</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Cắt cung mày tại Hệ thống thẩm mỹ Thu Cúc là phương pháp
-                                                            hiện đại... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col post-item">
-                                        <div class="col-inner">
-                                            <div class="box box-vertical box-text-bottom box-blog-post has-hover">
-                                                <div class="box-image" style="width:40%;">
-                                                    <div class="image-cover" style="padding-top:56%;">
-                                                        <a href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nano-plasma/"
-                                                            class="plain"
-                                                            aria-label="Cắt mí Pro mini/ Open Deep Nano Plasma">
-                                                            <img width="300" height="300"
-                                                                src="/assets/wp-content/uploads/2020/10/cat-mi-nano-plasma-1-300x300.jpg"
-                                                                class="attachment-medium size-medium wp-post-image"
-                                                                alt="" decoding="async" loading="lazy"
-                                                                srcset="/assets/wp-content/uploads/2020/10/cat-mi-nano-plasma-1-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/cat-mi-nano-plasma-1-150x150.jpg 150w, /assets/wp-content/uploads/2020/10/cat-mi-nano-plasma-1.jpg 600w"
-                                                                sizes="(max-width: 300px) 100vw, 300px" /> </a>
-                                                    </div>
-                                                </div>
-                                                <div class="box-text text-left">
-                                                    <div class="box-text-inner blog-post-inner">
-
-
-                                                        <h5 class="post-title is-large ">
-                                                            <a href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nano-plasma/"
-                                                                class="plain">Cắt mí Pro mini/ Open Deep Nano Plasma</a>
-                                                        </h5>
-                                                        <div class="is-divider"></div>
-                                                        <p class="from_the_blog_excerpt ">
-                                                            Với ưu điểm vượt trội mang đến nếp mí đẹp trọn đời cho khách
-                                                            hàng,... </p>
-
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_710276997">
+                                <div class="img-inner dark">
+                                    <img fetchpriority="high" decoding="async" width="1920" height="801"
+                                        src="/assets/wp-content/uploads/2024/02/01-1.jpg"
+                                        class="attachment-original size-original" alt=""
+                                        srcset="/assets/wp-content/uploads/2024/02/01-1.jpg 1920w, /assets/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, /assets/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, /assets/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, /assets/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
+                                        sizes="(max-width: 1920px) 100vw, 1920px" />
                                 </div>
-                                <ul class="page-numbers nav-pagination links text-center">
-                                    <li><span aria-current="page" class="page-number current">1</span></li>
-                                    <li><a class="page-number"
-                                            href="https://spa8.mauthemewp.com/category/tham-my-mat/page/2/">2</a></li>
-                                    <li><a class="next page-number"
-                                            href="https://spa8.mauthemewp.com/category/tham-my-mat/page/2/"><i
-                                                class="icon-angle-right"></i></a></li>
-                                </ul>
+
+                                <style>
+                                    #image_710276997 {
+                                        width: 100%;
+                                    }
+                                </style>
                             </div>
-                        </div>
-                        <div class="post-sidebar large-3 col">
-                            <div id="secondary" class="widget-area " role="complementary">
-                                <aside id="custom_html-2" class="widget_text widget widget_custom_html"><span
-                                        class="widget-title "><span>THỜI GIAN LÀM VIỆC</span></span>
-                                    <div class="is-divider small"></div>
-                                    <div class="textwidget custom-html-widget">
-                                        <div class="thoi-gian-lam-viec">
-                                            <p>7H00 - 19H00</p>
-                                            <span>Từ <b>Thứ 2</b> đến <b>Chủ nhật</b></span>
-                                        </div>
-                                    </div>
-                                </aside>
-                                <aside id="nav_menu-2" class="widget widget_nav_menu"><span
-                                        class="widget-title "><span>DỊCH VỤ NỔI BẬT</span></span>
-                                    <div class="is-divider small"></div>
-                                    <div class="menu-menu-dich-vu-noi-bat-container">
-                                        <ul id="menu-menu-dich-vu-noi-bat" class="menu">
-                                            <li id="menu-item-728"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-728">
-                                                <a href="https://spa8.mauthemewp.com/dieu-khac-long-may-duoc-bao-lau/">Điêu
-                                                    khắc lông mày được bao lâu?</a></li>
-                                            <li id="menu-item-729"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-729">
-                                                <a
-                                                    href="https://spa8.mauthemewp.com/dieu-khac-long-may-hong-co-sua-duoc-khong/">Điêu
-                                                    khắc lông mày hỏng có sửa được không?</a></li>
-                                            <li id="menu-item-730"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-730">
-                                                <a href="https://spa8.mauthemewp.com/co-nen-dieu-khac-long-may-khong/">Có
-                                                    nên điêu khắc lông mày không?</a></li>
-                                            <li id="menu-item-731"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-731">
-                                                <a
-                                                    href="https://spa8.mauthemewp.com/cham-soc-sau-khi-nang-chan-may-the-nao-de-nhanh-lanh/">Chăm
-                                                    sóc sau khi nâng chân mày thế nào để nhanh lành?</a></li>
-                                            <li id="menu-item-732"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-732">
-                                                <a
-                                                    href="https://spa8.mauthemewp.com/phun-moi-collagen-gia-bao-nhieu-tien-1-lan/">Phun
-                                                    môi collagen giá bao nhiêu tiền 1 lần?</a></li>
-                                            <li id="menu-item-733"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-733">
-                                                <a
-                                                    href="https://spa8.mauthemewp.com/phun-moi-co-danh-son-duoc-khong-sau-bao-lau-thi-duoc-danh-son/">Phun
-                                                    môi có đánh son được không?</a></li>
-                                        </ul>
-                                    </div>
-                                </aside>
-                                <aside id="media_image-2" class="widget widget_media_image"><img width="300"
-                                        height="300"
-                                        src="/assets/wp-content/uploads/2020/10/banner-quang-cao-300x300.jpg"
-                                        class="image wp-image-474  attachment-medium size-medium" alt=""
-                                        style="max-width: 100%; height: auto;" decoding="async" loading="lazy"
-                                        srcset="/assets/wp-content/uploads/2020/10/banner-quang-cao-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/banner-quang-cao-150x150.jpg 150w, /assets/wp-content/uploads/2020/10/banner-quang-cao.jpg 480w"
-                                        sizes="(max-width: 300px) 100vw, 300px" /></aside>
-                                <aside id="flatsome_recent_posts-2" class="widget flatsome_recent_posts"> <span
-                                        class="widget-title "><span>CÓ THỂ BẠN QUAN TÂM</span></span>
-                                    <div class="is-divider small"></div>
-                                    <ul>
 
-                                        <li class="recent-blog-posts-li">
-                                            <div class="flex-row recent-blog-posts align-top pt-half pb-half">
-                                                <div class="flex-col mr-half">
-                                                    <div class="badge post-date  badge-outline">
-                                                        <div class="badge-inner bg-fill"
-                                                            style="background: url(/assets/wp-content/uploads/2020/10/canh-bao-rut-chat-lieu-mui-la-gi-khi-nao-nen-thuc-hien7-150x150.jpg); border:0;">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="flex-col flex-grow">
-                                                    <a href="https://spa8.mauthemewp.com/rut-chat-lieu-mui-la-gi/"
-                                                        title="Rút chất liệu mũi là gì">Rút chất liệu mũi là gì</a>
-                                                    <span class="post_comments op-7 block is-xsmall"><a
-                                                            href="https://spa8.mauthemewp.com/rut-chat-lieu-mui-la-gi/#respond"></a></span>
-                                                </div>
-                                            </div>
-                                        </li>
+                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_285077566">
+                                <div class="img-inner dark">
+                                    <img fetchpriority="high" decoding="async" width="1920" height="801"
+                                        src="/assets/wp-content/uploads/2024/02/01-1.jpg"
+                                        class="attachment-original size-original" alt=""
+                                        srcset="/assets/wp-content/uploads/2024/02/01-1.jpg 1920w, /assets/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, /assets/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, /assets/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, /assets/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
+                                        sizes="(max-width: 1920px) 100vw, 1920px" />
+                                </div>
 
-
-                                        <li class="recent-blog-posts-li">
-                                            <div class="flex-row recent-blog-posts align-top pt-half pb-half">
-                                                <div class="flex-col mr-half">
-                                                    <div class="badge post-date  badge-outline">
-                                                        <div class="badge-inner bg-fill"
-                                                            style="background: url(/assets/wp-content/uploads/2020/10/thu-gon-canh-mui-4-150x150.jpg); border:0;">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="flex-col flex-grow">
-                                                    <a href="https://spa8.mauthemewp.com/thu-gon-canh-mui/"
-                                                        title="Thu gọn cánh mũi">Thu gọn cánh mũi</a>
-                                                    <span class="post_comments op-7 block is-xsmall"><a
-                                                            href="https://spa8.mauthemewp.com/thu-gon-canh-mui/#respond"></a></span>
-                                                </div>
-                                            </div>
-                                        </li>
-
-
-                                        <li class="recent-blog-posts-li">
-                                            <div class="flex-row recent-blog-posts align-top pt-half pb-half">
-                                                <div class="flex-col mr-half">
-                                                    <div class="badge post-date  badge-outline">
-                                                        <div class="badge-inner bg-fill"
-                                                            style="background: url(/assets/wp-content/uploads/2020/10/nang-mui-high-line-2-150x150.jpg); border:0;">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="flex-col flex-grow">
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-high-line/"
-                                                        title="Nâng mũi High-line">Nâng mũi High-line</a>
-                                                    <span class="post_comments op-7 block is-xsmall"><a
-                                                            href="https://spa8.mauthemewp.com/nang-mui-high-line/#respond"></a></span>
-                                                </div>
-                                            </div>
-                                        </li>
-
-
-                                        <li class="recent-blog-posts-li">
-                                            <div class="flex-row recent-blog-posts align-top pt-half pb-half">
-                                                <div class="flex-col mr-half">
-                                                    <div class="badge post-date  badge-outline">
-                                                        <div class="badge-inner bg-fill"
-                                                            style="background: url(/assets/wp-content/uploads/2020/10/nang-mui-nanocell-16-150x150.jpg); border:0;">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="flex-col flex-grow">
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-nanocell-4-0/"
-                                                        title="Nâng mũi NanoCell 4.0">Nâng mũi NanoCell 4.0</a>
-                                                    <span class="post_comments op-7 block is-xsmall"><a
-                                                            href="https://spa8.mauthemewp.com/nang-mui-nanocell-4-0/#respond"></a></span>
-                                                </div>
-                                            </div>
-                                        </li>
-
-
-                                        <li class="recent-blog-posts-li">
-                                            <div class="flex-row recent-blog-posts align-top pt-half pb-half">
-                                                <div class="flex-col mr-half">
-                                                    <div class="badge post-date  badge-outline">
-                                                        <div class="badge-inner bg-fill"
-                                                            style="background: url(/assets/wp-content/uploads/2020/10/nang-mui-biscell-4-150x150.jpg); border:0;">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="flex-col flex-grow">
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-biscell/"
-                                                        title="Nâng mũi BisCell">Nâng mũi BisCell</a>
-                                                    <span class="post_comments op-7 block is-xsmall"><a
-                                                            href="https://spa8.mauthemewp.com/nang-mui-biscell/#respond"></a></span>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </aside>
-                                <aside id="category-posts-2" class="widget cat-post-widget"><span
-                                        class="widget-title "><span>CÂU CHUYỆN KHÁCH HÀNG</span></span>
-                                    <div class="is-divider small"></div>
-                                    <ul id="category-posts-2-internal" class="category-posts-internal">
-                                        <li class='cat-post-item'>
-                                            <div><a class="cat-post-thumbnail cat-post-none"
-                                                    href="https://spa8.mauthemewp.com/dieu-khac-long-may-duoc-bao-lau/"
-                                                    title="Điêu khắc lông mày được bao lâu?"><span
-                                                        class="cat-post-crop cat-post-format cat-post-format-standard"><img
-                                                            width="44" height="44"
-                                                            src="/assets/wp-content/uploads/2020/10/tu-van-3.jpg"
-                                                            class="attachment- size- wp-post-image" alt=""
-                                                            data-cat-posts-width="44" data-cat-posts-height="44"
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/tu-van-3.jpg 600w, /assets/wp-content/uploads/2020/10/tu-van-3-300x167.jpg 300w"
-                                                            sizes="(max-width: 44px) 100vw, 44px" /></span></a><a
-                                                    class="cat-post-title"
-                                                    href="https://spa8.mauthemewp.com/dieu-khac-long-may-duoc-bao-lau/"
-                                                    rel="bookmark">Điêu khắc lông mày được bao lâu?</a></div>
-                                        </li>
-                                        <li class='cat-post-item'>
-                                            <div><a class="cat-post-thumbnail cat-post-none"
-                                                    href="https://spa8.mauthemewp.com/dieu-khac-long-may-hong-co-sua-duoc-khong/"
-                                                    title="Điêu khắc lông mày hỏng có sửa được không?"><span
-                                                        class="cat-post-crop cat-post-format cat-post-format-standard"><img
-                                                            width="44" height="44"
-                                                            src="/assets/wp-content/uploads/2020/10/tu-van-4.jpg"
-                                                            class="attachment- size- wp-post-image" alt=""
-                                                            data-cat-posts-width="44" data-cat-posts-height="44"
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/tu-van-4.jpg 768w, /assets/wp-content/uploads/2020/10/tu-van-4-300x200.jpg 300w"
-                                                            sizes="(max-width: 44px) 100vw, 44px" /></span></a><a
-                                                    class="cat-post-title"
-                                                    href="https://spa8.mauthemewp.com/dieu-khac-long-may-hong-co-sua-duoc-khong/"
-                                                    rel="bookmark">Điêu khắc lông mày hỏng có sửa được không?</a></div>
-                                        </li>
-                                        <li class='cat-post-item'>
-                                            <div><a class="cat-post-thumbnail cat-post-none"
-                                                    href="https://spa8.mauthemewp.com/co-nen-dieu-khac-long-may-khong/"
-                                                    title="Có nên điêu khắc lông mày không?"><span
-                                                        class="cat-post-crop cat-post-format cat-post-format-standard"><img
-                                                            width="44" height="44"
-                                                            src="/assets/wp-content/uploads/2020/10/tu-van-1.jpg"
-                                                            class="attachment- size- wp-post-image" alt=""
-                                                            data-cat-posts-width="44" data-cat-posts-height="44"
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/tu-van-1.jpg 600w, /assets/wp-content/uploads/2020/10/tu-van-1-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/tu-van-1-150x150.jpg 150w"
-                                                            sizes="(max-width: 44px) 100vw, 44px" /></span></a><a
-                                                    class="cat-post-title"
-                                                    href="https://spa8.mauthemewp.com/co-nen-dieu-khac-long-may-khong/"
-                                                    rel="bookmark">Có nên điêu khắc lông mày không?</a></div>
-                                        </li>
-                                    </ul>
-                                </aside>
+                                <style>
+                                    #image_285077566 {
+                                        width: 100%;
+                                    }
+                                </style>
                             </div>
+
                         </div>
+
+                        <div class="loading-spin dark large centered"></div>
+
                     </div>
 
+
+                    <section class="section section7" id="section_150886525">
+                        <div class="bg section-bg fill bg-fill  bg-loaded">
+
+
+
+
+
+                        </div>
+
+
+
+                        <div class="section-content relative">
+
+                            <div class="row row-small align-center row1" id="row-837068982">
+
+                                <div id="col-1204027003" class="col cot1 medium-3 small-12 large-3">
+                                    <div class="col-inner">
+
+
+
+                                        <div class="icon-box featured-box icon-box-center text-center">
+                                            <div class="icon-box-img" style="width: 60px">
+                                                <div class="icon">
+                                                    <div class="icon-inner">
+                                                        <img decoding="async" width="59" height="59"
+                                                            src="/assets/wp-content/uploads/2020/10/icon-hotline.png"
+                                                            class="attachment-medium size-medium" alt="" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="icon-box-text last-reset">
+
+                                                <p class="call-action">LIÊN HỆ HOTLINE</p>
+                                                <p class="call-hotline">099999.xxx</p>
+                                                <div class="des">Giải đáp miễn phí mọi thắc mắc<br />
+                                                    của khách hàng 24/7</div>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+
+
+
+                                <div id="col-1470985051" class="col cot2 medium-3 small-12 large-3">
+                                    <div class="col-inner">
+
+
+
+                                        <div class="icon-box featured-box icon-box-center text-center">
+                                            <div class="icon-box-img" style="width: 60px">
+                                                <div class="icon">
+                                                    <div class="icon-inner">
+                                                        <img decoding="async" width="59" height="59"
+                                                            src="/assets/wp-content/uploads/2020/10/icon-dat-lich.png"
+                                                            class="attachment-medium size-medium" alt="" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="icon-box-text last-reset">
+
+                                                <p class="call-action">ĐẶT LỊCH TƯ VẤN TRỰC TIẾP</p>
+                                                <p class="call-hotline">MIỄN PHÍ 100%</p>
+                                                <div class="des">Cùng các chuyên gia<br />
+                                                    hàng đầu tại thu cúc</div>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+
+
+
+                                <div id="col-845766431" class="col cot3 medium-4 small-12 large-4">
+                                    <div class="col-inner">
+
+
+
+                                        <div class="wpcf7 no-js" id="wpcf7-f320-p838-o1" lang="vi" dir="ltr">
+                                            <div class="screen-reader-response">
+                                                <p role="status" aria-live="polite" aria-atomic="true"></p>
+                                                <ul></ul>
+                                            </div>
+                                            <form action="/lien-he/#wpcf7-f320-p838-o1" method="post"
+                                                class="wpcf7-form init" aria-label="Form liên hệ"
+                                                novalidate="novalidate" data-status="init">
+                                                <div style="display: none;">
+                                                    <input type="hidden" name="_wpcf7" value="320" />
+                                                    <input type="hidden" name="_wpcf7_version" value="5.8.7" />
+                                                    <input type="hidden" name="_wpcf7_locale" value="vi" />
+                                                    <input type="hidden" name="_wpcf7_unit_tag"
+                                                        value="wpcf7-f320-p838-o1" />
+                                                    <input type="hidden" name="_wpcf7_container_post" value="838" />
+                                                    <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+                                                </div>
+                                                <div class="form-lien-he">
+                                                    <p><span class="wpcf7-form-control-wrap" data-name="text-705"><input
+                                                                size="40"
+                                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                                                                aria-required="true" aria-invalid="false"
+                                                                placeholder="Họ tên:" value="" type="text"
+                                                                name="text-705" /></span><br />
+                                                        <span class="wpcf7-form-control-wrap" data-name="tel-999"><input
+                                                                size="40"
+                                                                class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel"
+                                                                aria-required="true" aria-invalid="false"
+                                                                placeholder="Số điện thoại" value="" type="tel"
+                                                                name="tel-999" /></span><br />
+                                                        <span class="wpcf7-form-control-wrap"
+                                                            data-name="text-706"><input size="40"
+                                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                                                                aria-required="true" aria-invalid="false"
+                                                                placeholder="Nhu cầu:" value="" type="text"
+                                                                name="text-706" /></span>
+                                                    </p>
+                                                    <div class="btn-gui">
+                                                        <p><input class="wpcf7-form-control wpcf7-submit has-spinner"
+                                                                type="submit" value="Đặt lịch" />
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                                <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                            </form>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+
+
+                        <style>
+                            #section_150886525 {
+                                padding-top: 30px;
+                                padding-bottom: 30px;
+                            }
+                        </style>
+                    </section>
+
+
+
+
                 </div>
+
 
 
             </main>
 
             @livewire('inc.footer')
+
 
         </div>
 
@@ -2730,7 +2351,7 @@
                 }
             }
         </style>
-              @livewire('inc.contact')
+        @livewire('inc.contact')
 
         <style>
             #azt-contact-footer-outer {
@@ -3321,118 +2942,6 @@
         <script type="text/javascript"
             src="/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3"
             id="flatsome-js-js"></script>
-        <script>"undefined" != typeof jQuery && jQuery(document).ready(function () { "objectFit" in document.documentElement.style == !1 && (jQuery(".cat-post-item figure").removeClass("cat-post-crop"), jQuery(".cat-post-item figure").addClass("cat-post-crop-not-supported")), (document.documentMode || /Edge/.test(navigator.userAgent)) && (jQuery(".cat-post-item figure img").height("+=1"), window.setTimeout(function () { jQuery(".cat-post-item figure img").height("-=1") }, 0)) });</script>
-        <script type="text/javascript">
-            if (typeof jQuery !== 'undefined') {
-
-                var cat_posts_namespace = window.cat_posts_namespace || {};
-                cat_posts_namespace.layout_wrap_text = cat_posts_namespace.layout_wrap_text || {};
-                cat_posts_namespace.layout_img_size = cat_posts_namespace.layout_img_size || {};
-
-                cat_posts_namespace.layout_wrap_text = {
-
-                    preWrap: function (widget) {
-                        // var _widget = jQuery(widget);
-                        jQuery(widget).find('.cat-post-item').each(function () {
-                            var _that = jQuery(this);
-                            _that.find('p.cpwp-excerpt-text').addClass('cpwp-wrap-text');
-                            _that.find('p.cpwp-excerpt-text').closest('div').wrap('<div class="cpwp-wrap-text-stage"></div>');;
-                        });
-                        return;
-                    },
-
-                    add: function (_this) {
-                        var _that = jQuery(_this);
-                        if (_that.find('p.cpwp-excerpt-text').height() < _that.find('.cat-post-thumbnail').height()) {
-                            _that.find('p.cpwp-excerpt-text').closest('.cpwp-wrap-text-stage').removeClass("cpwp-wrap-text");
-                            _that.find('p.cpwp-excerpt-text').addClass("cpwp-wrap-text");
-                        } else {
-                            _that.find('p.cpwp-excerpt-text').removeClass("cpwp-wrap-text");
-                            _that.find('p.cpwp-excerpt-text').closest('.cpwp-wrap-text-stage').addClass("cpwp-wrap-text");
-                        }
-                        return;
-                    },
-
-                    handleLazyLoading: function (_this) {
-                        var width = jQuery(_this).find('img').width();
-
-                        if (0 !== width) {
-                            cat_posts_namespace.layout_wrap_text.add(_this);
-                        } else {
-                            jQuery(_this).find('img').one("load", function () {
-                                cat_posts_namespace.layout_wrap_text.add(_this);
-                            });
-                        }
-                        return;
-                    },
-
-                    setClass: function (widget) {
-                        // var _widget = jQuery(widget);
-                        jQuery(widget).find('.cat-post-item').each(function () {
-                            cat_posts_namespace.layout_wrap_text.handleLazyLoading(this);
-                        });
-                        return;
-                    }
-                }
-                cat_posts_namespace.layout_img_size = {
-
-                    replace: function (_this) {
-                        var _that = jQuery(_this),
-                            resp_w = _that.width(),
-                            resp_h = _that.height(),
-                            orig_w = _that.data('cat-posts-width'),
-                            orig_h = _that.data('cat-posts-height');
-
-                        if (resp_w < orig_w) {
-                            _that.height(resp_w * orig_h / orig_w);
-                        } else {
-                            _that.height('');
-                        }
-                        return;
-                    },
-
-                    handleLazyLoading: function (_this) {
-                        var width = jQuery(_this).width();
-
-                        if (0 !== width) {
-                            cat_posts_namespace.layout_img_size.replace(_this);
-                        } else {
-                            jQuery(_this).one("load", function () {
-                                cat_posts_namespace.layout_img_size.replace(_this);
-                            });
-                        }
-                        return;
-                    },
-                    setHeight: function (widget) {
-                        jQuery(widget).find('.cat-post-item img').each(function () {
-                            cat_posts_namespace.layout_img_size.handleLazyLoading(this);
-                        });
-                        return;
-                    }
-                }
-
-                let widget = jQuery('#category-posts-2-internal');
-
-                jQuery(document).ready(function () {
-                    cat_posts_namespace.layout_wrap_text.preWrap(widget);
-                    cat_posts_namespace.layout_wrap_text.setClass(widget);
-
-
-                    cat_posts_namespace.layout_img_size.setHeight(widget);
-
-                });
-
-                jQuery(window).on('load resize', function () {
-                    cat_posts_namespace.layout_wrap_text.setClass(widget);
-
-
-                    cat_posts_namespace.layout_img_size.setHeight(widget);
-
-                });
-
-            }
-        </script>
 
     </body>
-
 </div>
