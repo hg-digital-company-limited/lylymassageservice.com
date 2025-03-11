@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Mar 10, 2025 at 02:20 PM
+-- Generation Time: Mar 11, 2025 at 02:50 AM
 -- Server version: 8.0.30
 -- PHP Version: 8.2.27
 
@@ -38,8 +38,10 @@ CREATE TABLE `cache` (
 --
 
 INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
-('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1741615625),
-('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1741615625;', 1741615625);
+('356a192b7913b04c54574d18c28d46e6395428ab', 'i:1;', 1741659473),
+('356a192b7913b04c54574d18c28d46e6395428ab:timer', 'i:1741659473;', 1741659473),
+('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1741658753),
+('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1741658753;', 1741658753);
 
 -- --------------------------------------------------------
 
@@ -188,6 +190,14 @@ CREATE TABLE `posts` (
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+--
+-- Dumping data for table `posts`
+--
+
+INSERT INTO `posts` (`id`, `title`, `slug`, `short_description`, `long_description`, `banner`, `category_id`, `created_at`, `updated_at`) VALUES
+(1, 'Cắt mí Pro Mini', 'cat-mi-pro-mini', 'Phương pháp cắt mí Pro mini Deep NanoCell 4.0 thế hệ mới tại Hệ thống thẩm mỹ Thu Cúc là bí quyết giúp các tín đồ làm đẹp giữ mãi tuổi thanh xuân với đôi mắt trẻ trung, rạng ngời, đồng thời tôn lên vẻ đẹp cuốn hút với “thần thái” ngút ngàn cho khuôn mặt. Kỹ thuật cắt mí thời đại công nghệ 4.0 được ví như “vị cứu tinh” giúp khắc phục mọi khuyết điểm vùng mắt như: mắt 1 mí, mí lót, mí ẩn, sụp mí, mắt nhiều da trùng, mỡ thừa… tạo cho chị em sự tự tin, ấn tượng trong mắt người đối diện.', 'Phương pháp cắt mí Pro mini Deep NanoCell 4.0 thế hệ mới tại Hệ thống thẩm mỹ Thu Cúc là bí quyết giúp các tín đồ làm đẹp giữ mãi tuổi thanh xuân với đôi mắt trẻ trung, rạng ngời, đồng thời tôn lên vẻ đẹp cuốn hút với “thần thái” ngút ngàn cho khuôn mặt. Kỹ thuật cắt mí thời đại công nghệ 4.0 được ví như “vị cứu tinh” giúp khắc phục mọi khuyết điểm vùng mắt như: mắt 1 mí, mí lót, mí ẩn, sụp mí, mắt nhiều da trùng, mỡ thừa… tạo cho chị em sự tự tin, ấn tượng trong mắt người đối diện.', '01JP1FV8RAD0SVZBBEH6W26K0R.png', 2, '2025-03-11 02:16:55', '2025-03-11 02:16:55'),
+(2, 'Cắt mí Pro Mini', 'cat-mi-pro-minia', 'Phương pháp cắt mí Pro mini Deep NanoCell 4.0 thế hệ mới tại Hệ thống thẩm mỹ Thu Cúc là bí quyết giúp các tín đồ làm đẹp giữ mãi tuổi thanh xuân với đôi mắt trẻ trung, rạng ngời, đồng thời tôn lên vẻ đẹp cuốn hút với “thần thái” ngút ngàn cho khuôn mặt. Kỹ thuật cắt mí thời đại công nghệ 4.0 được ví như “vị cứu tinh” giúp khắc phục mọi khuyết điểm vùng mắt như: mắt 1 mí, mí lót, mí ẩn, sụp mí, mắt nhiều da trùng, mỡ thừa… tạo cho chị em sự tự tin, ấn tượng trong mắt người đối diện.', 'Phương pháp cắt mí Pro mini Deep NanoCell 4.0 thế hệ mới tại Hệ thống thẩm mỹ Thu Cúc là bí quyết giúp các tín đồ làm đẹp giữ mãi tuổi thanh xuân với đôi mắt trẻ trung, rạng ngời, đồng thời tôn lên vẻ đẹp cuốn hút với “thần thái” ngút ngàn cho khuôn mặt. Kỹ thuật cắt mí thời đại công nghệ 4.0 được ví như “vị cứu tinh” giúp khắc phục mọi khuyết điểm vùng mắt như: mắt 1 mí, mí lót, mí ẩn, sụp mí, mắt nhiều da trùng, mỡ thừa… tạo cho chị em sự tự tin, ấn tượng trong mắt người đối diện.', '01JP1FV8RAD0SVZBBEH6W26K0R.png', 2, '2025-03-11 02:16:55', '2025-03-11 02:16:55');
+
 -- --------------------------------------------------------
 
 --
@@ -208,7 +218,7 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('Ee7jBSIc3k8KXJ0FH6EbGfIiP3kaMpfG8Z4n3Qpj', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoiQ3RxV1g3UHBBN2ZYVEhqUEJsVXU1U0tXSFRWbk1ZazRtYVRQR0tDRSI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6Mzg6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9hZG1pbi9jYXRlZ29yaWVzIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czozOiJ1cmwiO2E6MDp7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiRudkxaYlp2TWlIbFRiM3dXLmFQdmFPZ1lXMmFQQ3dRVWdZd1cwMjRTanU3Lnp6S0RuTlRWLiI7czo4OiJmaWxhbWVudCI7YTowOnt9fQ==', 1741616382);
+('vT0EOXMK5U9UWUsgpRJwEBX9c13FZCdZqaNnncwa', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoiNXA4ZzlBRDdYclR2M2kzYjZ3dG9YSlRWMUZGNldscXVIU1V2SjlacyI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6NTQ6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9kYW5oLW11Yy90aGFtLW15LW1hdC10aGFtLW15LW1hdCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fXM6MzoidXJsIjthOjA6e31zOjUwOiJsb2dpbl93ZWJfNTliYTM2YWRkYzJiMmY5NDAxNTgwZjAxNGM3ZjU4ZWE0ZTMwOTg5ZCI7aToxO3M6MTc6InBhc3N3b3JkX2hhc2hfd2ViIjtzOjYwOiIkMnkkMTIkbnZMWmJadk1pSGxUYjN3Vy5hUHZhT2dZVzJhUEN3UVVnWXdXMDI0U2p1Ny56ektEbk5UVi4iO3M6ODoiZmlsYW1lbnQiO2E6MDp7fX0=', 1741661337);
 
 -- --------------------------------------------------------
 
@@ -345,7 +355,7 @@ ALTER TABLE `migrations`
 -- AUTO_INCREMENT for table `posts`
 --
 ALTER TABLE `posts`
-  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT for table `users`

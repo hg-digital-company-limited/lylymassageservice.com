@@ -4,6 +4,7 @@ namespace App\Filament\Resources;
 
 use App\Filament\Resources\PostResource\Pages;
 use App\Filament\Resources\PostResource\RelationManagers;
+use App\Models\Category;
 use App\Models\Post;
 use Filament\Forms;
 use Filament\Forms\Form;
@@ -12,7 +13,7 @@ use Filament\Tables;
 use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
-
+use Illuminate\Support\Str;
 class PostResource extends Resource
 {
     protected static ?string $model = Post::class;
@@ -24,21 +25,31 @@ class PostResource extends Resource
         return $form
             ->schema([
                 Forms\Components\TextInput::make('title')
-                    ->required()
-                    ->maxLength(255),
-                Forms\Components\TextInput::make('slug')
-                    ->required()
-                    ->maxLength(255),
+                ->required()
+                ->live(onBlur: true)
+                ->afterStateUpdated(
+                    fn(string $operation, $state, Forms\Set $set) =>
+                    $operation === 'create' ? $set('slug', Str::slug($state)) : null
+                )
+                ->maxLength(255)
+                ->label('Tên sản phẩm'), // Việt hóa nhãn
+            Forms\Components\TextInput::make('slug')
+                ->dehydrated()
+                ->unique(Category::class, ignoreRecord: true)
+                ->required()
+                ->maxLength(255)
+                ->label('Slug'), // Việt hóa nhãn
                 Forms\Components\Textarea::make('short_description')
                     ->required()
                     ->columnSpanFull(),
                 Forms\Components\Textarea::make('long_description')
                     ->required()
                     ->columnSpanFull(),
-                Forms\Components\TextInput::make('banner')
-                    ->maxLength(255),
-                Forms\Components\TextInput::make('category_id')
-                    ->numeric(),
+                Forms\Components\FileUpload::make('banner')
+                    ->image(),
+                Forms\Components\Select::make('category_id')
+                    ->options(Category::all()->pluck('name', 'id'))
+                    ,
             ]);
     }
 
@@ -46,12 +57,15 @@ class PostResource extends Resource
     {
         return $table
             ->columns([
+                Tables\Columns\TextColumn::make('id')
+                    ->sortable(),
+                    Tables\Columns\ImageColumn::make('banner')
+                    ->searchable(),
                 Tables\Columns\TextColumn::make('title')
                     ->searchable(),
                 Tables\Columns\TextColumn::make('slug')
                     ->searchable(),
-                Tables\Columns\TextColumn::make('banner')
-                    ->searchable(),
+
                 Tables\Columns\TextColumn::make('category_id')
                     ->numeric()
                     ->sortable(),
