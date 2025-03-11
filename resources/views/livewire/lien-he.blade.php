@@ -1,14 +1,8 @@
 <div>
     <head>
-        <meta charset="UTF-8" />
-        <link rel="profile" href="http://gmpg.org/xfn/11" />
-        <link rel="pingback" href="https://spa8.mauthemewp.com/xmlrpc.php" />
 
         <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
         <title>Trang chủ &#8211; Mẫu theme wordpress spa làm đẹp</title>
-        <meta name='robots' content='noindex, nofollow' />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel='dns-prefetch' href='//use.fontawesome.com' />
         <link rel='prefetch'
             href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3' />
         <link rel='prefetch'
@@ -17,10 +11,6 @@
             href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.18.3' />
         <link rel='prefetch'
             href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.18.3' />
-        <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Mẫu theme wordpress spa làm đẹp &raquo;"
-            href="https://spa8.mauthemewp.com/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Mẫu theme wordpress spa làm đẹp &raquo;"
-            href="https://spa8.mauthemewp.com/comments/feed/" />
         <link rel='stylesheet' id='contact-form-7-css'
             href='/assets/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7'
             type='text/css' media='all' />
@@ -53,16 +43,6 @@
             crossorigin="anonymous" />
         <script type="text/javascript" src="/assets/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
             id="jquery-core-js"></script>
-        <link rel="https://api.w.org/" href="/assets/wp-json/" />
-        <link rel="alternate" type="application/json" href="/assets/wp-json/wp/v2/pages/838" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://spa8.mauthemewp.com/xmlrpc.php?rsd" />
-
-        <link rel="canonical" href="https://spa8.mauthemewp.com/lien-he/" />
-        <link rel='shortlink' href='https://spa8.mauthemewp.com/?p=838' />
-        <link rel="alternate" type="application/json+oembed"
-            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2Flien-he%2F" />
-        <link rel="alternate" type="text/xml+oembed"
-            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2Flien-he%2F&#038;format=xml" />
         <style>
             #category-posts-2-internal ul {
                 padding: 0;

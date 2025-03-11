@@ -1,15 +1,16 @@
 <div>
 
     <head>
-        <meta charset="UTF-8" />
-        <link rel="profile" href="http://gmpg.org/xfn/11" />
-        <link rel="pingback" href="https://spa8.mauthemewp.com/xmlrpc.php" />
 
         <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
-        <title>{{ $post->title }}</title>
-        <meta name='robots' content='index, follow' />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel='dns-prefetch' href='//use.fontawesome.com' />
+        <title>{{ $post->title }} - Ly Ly Massage</title>
+        <meta property="og:image" content="{{ Storage::url($post->banner) }}">
+        <meta property="og:title" content="{{ $post->title }}">
+        <meta property="og:url" content="{{ url()->current() }}">
+        <meta property="og:description" content="{{ $post->short_description }}">
+        <meta property="og:type" content="website">
+        <meta property="og:locale" content="vi_VN">
+        <meta property="og:site_name" content="Ly Ly Massage">
         <link rel='prefetch'
             href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3' />
         <link rel='prefetch'

@@ -3,16 +3,12 @@
     <head>
 
         <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
-        <title>{{ $title }}</title>
+        <title>Trang chủ - Ly Ly Massage</title>
         <link rel='dns-prefetch' href='//use.fontawesome.com' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.18.3' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.18.3' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.18.3' />
-        <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Mẫu theme wordpress spa làm đẹp &raquo;"
-            href="https://spa8.mauthemewp.com/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Mẫu theme wordpress spa làm đẹp &raquo;"
-            href="https://spa8.mauthemewp.com/comments/feed/" />
         <link rel='stylesheet' id='contact-form-7-css'
             href='/assets/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7' type='text/css'
             media='all' />

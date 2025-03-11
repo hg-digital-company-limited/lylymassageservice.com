@@ -1,26 +1,19 @@
 <div>
 
     <head>
-        <meta charset="UTF-8" />
-        <link rel="profile" href="http://gmpg.org/xfn/11" />
-        <link rel="pingback" href="https://spa8.mauthemewp.com/xmlrpc.php" />
 
         <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
-        <title>Thẩm mỹ mặt &#8211; Mẫu theme wordpress spa làm đẹp</title>
-        <meta name='robots' content='noindex, nofollow' />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel='dns-prefetch' href='//use.fontawesome.com' />
+        <title>{{ $category->name }} - Ly Ly Massage</title>
+        <meta property="og:title" content="{{ $category->name }}">
+        <meta property="og:url" content="{{ url()->current() }}">
+        <meta property="og:type" content="website">
+        <meta property="og:locale" content="vi_VN">
+        <meta property="og:site_name" content="Ly Ly Massage">
+
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.18.3' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.18.3' />
         <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.18.3' />
-        <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Mẫu theme wordpress spa làm đẹp &raquo;"
-            href="https://spa8.mauthemewp.com/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Mẫu theme wordpress spa làm đẹp &raquo;"
-            href="https://spa8.mauthemewp.com/comments/feed/" />
-        <link rel="alternate" type="application/rss+xml"
-            title="Dòng thông tin chuyên mục Mẫu theme wordpress spa làm đẹp &raquo; Thẩm mỹ mặt"
-            href="https://spa8.mauthemewp.com/category/tham-my-mat/feed/" />
         <link rel='stylesheet' id='contact-form-7-css'
             href='/assets/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7' type='text/css'
             media='all' />
@@ -51,9 +44,6 @@
             crossorigin="anonymous" />
         <script type="text/javascript" src="/assets/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
             id="jquery-core-js"></script>
-        <link rel="https://api.w.org/" href="/assets/wp-json/" />
-        <link rel="alternate" type="application/json" href="/assets/wp-json/wp/v2/categories/6" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://spa8.mauthemewp.com/xmlrpc.php?rsd" />
 
         <style>
             #category-posts-2-internal ul {
