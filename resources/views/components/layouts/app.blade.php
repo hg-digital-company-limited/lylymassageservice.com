@@ -10,6 +10,7 @@
         <meta name="author" content="Ly Ly Massage">
         <meta name="description" content="Trang chủ - Ly Ly Massage">
         <meta name="keywords" content="Trang chủ, Ly Ly Massage, Massage, Spa, Ly Ly, Massage tại nhà, Massage tại gia, Massage tại trọ, Massage tại khách sạn, Massage tại công ty, Massage tại trung tâm, Massage tại phòng khách, Massage tại phòng ngủ, Massage tại phòng ăn, Massage tại phòng học, Massage tại phòng làm việc, Massage tại phòng ngủ, Massage tại phòng ăn, Massage tại phòng học, Massage tại phòng làm việc">
+        <meta name="google-site-verification" content="k7hhG1WTd9Q1nj3QJvhYQigcd23m1WYpOmpZmCAL8C0" />
         @livewireStyles
     </head>
     <body>

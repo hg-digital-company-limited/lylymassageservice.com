@@ -28,7 +28,6 @@
                 src="/assets/wp-content/uploads/2020/10/banner-quang-cao-300x300.jpg"
                 class="image wp-image-474  attachment-medium size-medium" alt=""
                 style="max-width: 100%; height: auto;" decoding="async" loading="lazy"
-                srcset="/assets/wp-content/uploads/2020/10/banner-quang-cao-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/banner-quang-cao-150x150.jpg 150w, /assets/wp-content/uploads/2020/10/banner-quang-cao.jpg 480w"
                 sizes="(max-width: 300px) 100vw, 300px" /></aside>
         <aside id="flatsome_recent_posts-2" class="widget flatsome_recent_posts"> <span
                 class="widget-title "><span>CÓ THỂ BẠN QUAN TÂM</span></span>
