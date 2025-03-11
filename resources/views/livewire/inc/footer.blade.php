@@ -74,27 +74,11 @@
                         </div>
 
                         <ul id="menu-dich-vu-noi-bat-1" class="menu">
-                            <li id="menu-item-416"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-416"><a
-                                    href="https://spa1.az9s.group/#">Phun môi thẩm mỹ</a></li>
-                            <li id="menu-item-417"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417"><a
-                                    href="https://spa1.az9s.group/#">Nâng mũi Sline</a></li>
-                            <li id="menu-item-418"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-418"><a
-                                    href="https://spa1.az9s.group/#">Trị nám mặt sau sinh</a></li>
-                            <li id="menu-item-419"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-419"><a
-                                    href="https://spa1.az9s.group/#">Tạo mặt V-line sau 90 phút</a></li>
+                            @foreach ($parentCategories as $category)
                             <li id="menu-item-420"
                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420"><a
-                                    href="https://spa1.az9s.group/#">Căng da mặt không phẫu thuật</a></li>
-                            <li id="menu-item-419"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-419"><a
-                                    href="https://spa1.az9s.group/#">Tạo mặt V-line sau 90 phút</a></li>
-                            <li id="menu-item-420"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420"><a
-                                    href="https://spa1.az9s.group/#">Căng da mặt không phẫu thuật</a></li>
+                                    href="/danh-muc/{{ ($category->slug) }}">{{ $category->name }}</a></li>
+                            @endforeach
                         </ul>
 
                     </div>

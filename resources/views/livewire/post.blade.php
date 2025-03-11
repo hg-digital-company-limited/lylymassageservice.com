@@ -6,8 +6,8 @@
         <link rel="pingback" href="https://spa8.mauthemewp.com/xmlrpc.php" />
 
         <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
-        <title>Rút chất liệu mũi là gì &#8211; Mẫu theme wordpress spa làm đẹp</title>
-        <meta name='robots' content='noindex, nofollow' />
+        <title>{{ $post->title }}</title>
+        <meta name='robots' content='index, follow' />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel='dns-prefetch' href='//use.fontawesome.com' />
         <link rel='prefetch'
@@ -18,13 +18,6 @@
             href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.18.3' />
         <link rel='prefetch'
             href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.18.3' />
-        <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Mẫu theme wordpress spa làm đẹp &raquo;"
-            href="https://spa8.mauthemewp.com/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Mẫu theme wordpress spa làm đẹp &raquo;"
-            href="https://spa8.mauthemewp.com/comments/feed/" />
-        <link rel="alternate" type="application/rss+xml"
-            title="Mẫu theme wordpress spa làm đẹp &raquo; Rút chất liệu mũi là gì Dòng phản hồi"
-            href="https://spa8.mauthemewp.com/rut-chat-lieu-mui-la-gi/feed/" />
         <link rel='stylesheet' id='contact-form-7-css'
             href='/assets/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7'
             type='text/css' media='all' />
@@ -57,16 +50,6 @@
             crossorigin="anonymous" />
         <script type="text/javascript" src="/assets/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
             id="jquery-core-js"></script>
-        <link rel="https://api.w.org/" href="/assets/wp-json/" />
-        <link rel="alternate" type="application/json" href="/assets/wp-json/wp/v2/posts/572" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://spa8.mauthemewp.com/xmlrpc.php?rsd" />
-
-        <link rel="canonical" href="https://spa8.mauthemewp.com/rut-chat-lieu-mui-la-gi/" />
-        <link rel='shortlink' href='https://spa8.mauthemewp.com/?p=572' />
-        <link rel="alternate" type="application/json+oembed"
-            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2Frut-chat-lieu-mui-la-gi%2F" />
-        <link rel="alternate" type="text/xml+oembed"
-            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fspa8.mauthemewp.com%2Frut-chat-lieu-mui-la-gi%2F&#038;format=xml" />
         <style>
             #category-posts-2-internal ul {
                 padding: 0;
@@ -2095,54 +2078,26 @@
                                     <header class="entry-header">
                                         <div class="entry-header-text entry-header-text-top text-left">
 
-                                            <h1 class="entry-title">Rút chất liệu mũi là gì</h1>
+                                            <h1 class="entry-title">{{ $post->title }}</h1>
                                             <div class="entry-divider is-divider small"></div>
 
                                         </div>
                                     </header>
                                     <div class="entry-content single-page">
 
-                                        <p><strong>Nâng mũi là một trong những xu hướng làm đẹp hot nhất hiện nay. Tuy
-                                                nhiên nếu khách hàng thực hiện tại những địa chỉ thẩm mỹ kém uy tín thì
-                                                việc phải đối mặt với những rủi ro sau phẫu thuật là điều khó có thể
-                                                tránh khỏi. Thực tế đã có những trường hợp phải rút chất liệu mũi để đảm
-                                                bảo an toàn và tránh những hệ lụy sau này.</strong></p>
+                                        <p><strong>{!! $post->long_description !!}</strong></p>
+
                                         <div class="xem-them">
                                             <span class="tieu-de-xem-them">Xem thêm:</span>
                                             <ul>
 
-                                                <li>
-                                                    <a
-                                                        href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nano-plasma/">Cắt
-                                                        mí Pro mini/ Open Deep Nano Plasma</a>
-                                                </li>
+                                                @foreach ($random5posts as $item)
+                                                    <li>
+                                                        <a href="/dich-vu/{{ $item->slug }}">{{ $item->title }}</a>
+                                                    </li>
+                                                @endforeach
 
 
-                                                <li>
-                                                    <a
-                                                        href="https://spa8.mauthemewp.com/cham-soc-sau-khi-nang-chan-may-the-nao-de-nhanh-lanh/">Chăm
-                                                        sóc sau khi nâng chân mày thế nào để nhanh lành?</a>
-                                                </li>
-
-
-                                                <li>
-                                                    <a
-                                                        href="https://spa8.mauthemewp.com/co-nen-dieu-khac-long-may-khong/">Có
-                                                        nên điêu khắc lông mày không?</a>
-                                                </li>
-
-
-                                                <li>
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-nanocell-4-0/">Nâng
-                                                        mũi NanoCell 4.0</a>
-                                                </li>
-
-
-                                                <li>
-                                                    <a
-                                                        href="https://spa8.mauthemewp.com/ngay-vang-gia-soc-don-sinh-nhat-cung-thu-cuc-mega-beauty/">NGÀY
-                                                        VÀNG GIÁ SỐC – ĐÓN SINH NHẬT CÙNG THU CÚC MEGA BEAUTY</a>
-                                                </li>
 
                                             </ul>
 
@@ -2153,162 +2108,22 @@
                                     <div class="bai-viet-lien-quan">
                                         <h3>Bài viết cùng chủ đề:</h3>
                                         <ul class="list-bai-viet">
-                                            <li>
+                                            @foreach ($relatedPosts as $item)
+                                                <li>
 
                                                 <div class="box-image">
-                                                    <a href="https://spa8.mauthemewp.com/thu-gon-canh-mui/"><img
+                                                    <a href="/dich-vu/{{ $item->slug }}"><img
                                                             width="600" height="436"
-                                                            src="/assets/wp-content/uploads/2020/10/thu-gon-canh-mui-4.jpg"
+                                                            src="{{ Storage::url($item->banner) }}"
                                                             class="attachment-large size-large wp-post-image" alt=""
                                                             decoding="async" fetchpriority="high"
-                                                            srcset="/assets/wp-content/uploads/2020/10/thu-gon-canh-mui-4.jpg 600w, /assets/wp-content/uploads/2020/10/thu-gon-canh-mui-4-300x218.jpg 300w"
                                                             sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                 </div>
-                                                <a href="https://spa8.mauthemewp.com/thu-gon-canh-mui/">
-                                                    <h4 class="tieu-de-bai-viet">Thu gọn cánh mũi</h4>
+                                                <a href="/dich-vu/{{ $item->slug }}">
+                                                    <h4 class="tieu-de-bai-viet">{{ $item->title }}</h4>
                                                 </a>
                                             </li>
-                                            <li>
-
-                                                <div class="box-image">
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-high-line/"><img
-                                                            width="600" height="601"
-                                                            src="/assets/wp-content/uploads/2020/10/nang-mui-high-line-2.jpg"
-                                                            class="attachment-large size-large wp-post-image" alt=""
-                                                            decoding="async"
-                                                            srcset="/assets/wp-content/uploads/2020/10/nang-mui-high-line-2.jpg 600w, /assets/wp-content/uploads/2020/10/nang-mui-high-line-2-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/nang-mui-high-line-2-150x150.jpg 150w"
-                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                </div>
-                                                <a href="https://spa8.mauthemewp.com/nang-mui-high-line/">
-                                                    <h4 class="tieu-de-bai-viet">Nâng mũi High-line</h4>
-                                                </a>
-                                            </li>
-                                            <li>
-
-                                                <div class="box-image">
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-nanocell-4-0/"><img
-                                                            width="600" height="408"
-                                                            src="/assets/wp-content/uploads/2020/10/nang-mui-nanocell-16.jpg"
-                                                            class="attachment-large size-large wp-post-image" alt=""
-                                                            decoding="async"
-                                                            srcset="/assets/wp-content/uploads/2020/10/nang-mui-nanocell-16.jpg 600w, /assets/wp-content/uploads/2020/10/nang-mui-nanocell-16-300x204.jpg 300w"
-                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                </div>
-                                                <a href="https://spa8.mauthemewp.com/nang-mui-nanocell-4-0/">
-                                                    <h4 class="tieu-de-bai-viet">Nâng mũi NanoCell 4.0</h4>
-                                                </a>
-                                            </li>
-                                            <li>
-
-                                                <div class="box-image">
-                                                    <a href="https://spa8.mauthemewp.com/nang-mui-biscell/"><img
-                                                            width="600" height="600"
-                                                            src="/assets/wp-content/uploads/2020/10/nang-mui-biscell-4.jpg"
-                                                            class="attachment-large size-large wp-post-image" alt=""
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/nang-mui-biscell-4.jpg 600w, /assets/wp-content/uploads/2020/10/nang-mui-biscell-4-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/nang-mui-biscell-4-150x150.jpg 150w"
-                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                </div>
-                                                <a href="https://spa8.mauthemewp.com/nang-mui-biscell/">
-                                                    <h4 class="tieu-de-bai-viet">Nâng mũi BisCell</h4>
-                                                </a>
-                                            </li>
-                                            <li>
-
-                                                <div class="box-image">
-                                                    <a href="https://spa8.mauthemewp.com/tao-hinh-sup-mi-bam-sinh/"><img
-                                                            width="600" height="549"
-                                                            src="/assets/wp-content/uploads/2020/10/sup-mi-bam-sinh-6.jpg"
-                                                            class="attachment-large size-large wp-post-image" alt=""
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/sup-mi-bam-sinh-6.jpg 600w, /assets/wp-content/uploads/2020/10/sup-mi-bam-sinh-6-300x275.jpg 300w"
-                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                </div>
-                                                <a href="https://spa8.mauthemewp.com/tao-hinh-sup-mi-bam-sinh/">
-                                                    <h4 class="tieu-de-bai-viet">Tạo hình Sụp mí bẩm sinh</h4>
-                                                </a>
-                                            </li>
-                                            <li>
-
-                                                <div class="box-image">
-                                                    <a href="https://spa8.mauthemewp.com/mo-rong-goc-mat/"><img
-                                                            width="600" height="474"
-                                                            src="/assets/wp-content/uploads/2020/10/96372996_3233515503368018_4629360027893760000_o.jpg"
-                                                            class="attachment-large size-large wp-post-image" alt=""
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/96372996_3233515503368018_4629360027893760000_o.jpg 600w, /assets/wp-content/uploads/2020/10/96372996_3233515503368018_4629360027893760000_o-300x237.jpg 300w"
-                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                </div>
-                                                <a href="https://spa8.mauthemewp.com/mo-rong-goc-mat/">
-                                                    <h4 class="tieu-de-bai-viet">Mở rộng góc mắt</h4>
-                                                </a>
-                                            </li>
-                                            <li>
-
-                                                <div class="box-image">
-                                                    <a href="https://spa8.mauthemewp.com/cay-mo-hoc-mat/"><img
-                                                            width="600" height="511"
-                                                            src="/assets/wp-content/uploads/2020/10/96243980_3241418309244404_2262902871081091072_o.jpg"
-                                                            class="attachment-large size-large wp-post-image" alt=""
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/96243980_3241418309244404_2262902871081091072_o.jpg 600w, /assets/wp-content/uploads/2020/10/96243980_3241418309244404_2262902871081091072_o-300x256.jpg 300w"
-                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                </div>
-                                                <a href="https://spa8.mauthemewp.com/cay-mo-hoc-mat/">
-                                                    <h4 class="tieu-de-bai-viet">Cấy mỡ hốc mắt</h4>
-                                                </a>
-                                            </li>
-                                            <li>
-
-                                                <div class="box-image">
-                                                    <a href="https://spa8.mauthemewp.com/nang-cung-may/"><img
-                                                            width="600" height="386"
-                                                            src="/assets/wp-content/uploads/2020/10/treo-chan-may-1.jpg"
-                                                            class="attachment-large size-large wp-post-image" alt=""
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/treo-chan-may-1.jpg 600w, /assets/wp-content/uploads/2020/10/treo-chan-may-1-300x193.jpg 300w"
-                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                </div>
-                                                <a href="https://spa8.mauthemewp.com/nang-cung-may/">
-                                                    <h4 class="tieu-de-bai-viet">Nâng cung mày</h4>
-                                                </a>
-                                            </li>
-                                            <li>
-
-                                                <div class="box-image">
-                                                    <a
-                                                        href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nano-plasma/"><img
-                                                            width="600" height="600"
-                                                            src="/assets/wp-content/uploads/2020/10/cat-mi-nano-plasma-1.jpg"
-                                                            class="attachment-large size-large wp-post-image" alt=""
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/cat-mi-nano-plasma-1.jpg 600w, /assets/wp-content/uploads/2020/10/cat-mi-nano-plasma-1-300x300.jpg 300w, /assets/wp-content/uploads/2020/10/cat-mi-nano-plasma-1-150x150.jpg 150w"
-                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                </div>
-                                                <a
-                                                    href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nano-plasma/">
-                                                    <h4 class="tieu-de-bai-viet">Cắt mí Pro mini/ Open Deep Nano Plasma
-                                                    </h4>
-                                                </a>
-                                            </li>
-                                            <li>
-
-                                                <div class="box-image">
-                                                    <a
-                                                        href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nanocell-4-0-cat-mi-laser-an-toan-chuan-my/"><img
-                                                            width="600" height="539"
-                                                            src="/assets/wp-content/uploads/2020/10/cach-so-huu-mat-bo-cau-18-1.jpg"
-                                                            class="attachment-large size-large wp-post-image" alt=""
-                                                            decoding="async" loading="lazy"
-                                                            srcset="/assets/wp-content/uploads/2020/10/cach-so-huu-mat-bo-cau-18-1.jpg 600w, /assets/wp-content/uploads/2020/10/cach-so-huu-mat-bo-cau-18-1-300x270.jpg 300w"
-                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                </div>
-                                                <a
-                                                    href="https://spa8.mauthemewp.com/cat-mi-pro-mini-open-deep-nanocell-4-0-cat-mi-laser-an-toan-chuan-my/">
-                                                    <h4 class="tieu-de-bai-viet">Cắt mí Pro Mini/Open Deep NanoCell 4.0:
-                                                        “Cắt mí Laser an toàn chuẩn Mỹ”</h4>
-                                                </a>
-                                            </li>
+                                            @endforeach
                                         </ul>
                                     </div>
                                 </div>

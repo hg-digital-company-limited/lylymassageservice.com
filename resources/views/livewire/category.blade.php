@@ -2126,14 +2126,37 @@
 
                                 </div>
                                 <ul class="page-numbers nav-pagination links text-center">
-                                    <li><span aria-current="page" class="page-number current">1</span></li>
-                                    <li><a class="page-number"
-                                            href="https://spa8.mauthemewp.com/category/tham-my-mat/page/2/">2</a></li>
-                                    <li><a class="next page-number"
-                                            href="https://spa8.mauthemewp.com/category/tham-my-mat/page/2/"><i
-                                                class="icon-angle-right"></i></a></li>
+                                    {{-- Nút "Trang trước" --}}
+                                    @if ($posts->onFirstPage())
+                                        <li class="disabled"><span class="page-number">&laquo;</span></li>
+                                    @else
+                                        <li>
+                                            <a class="page-number" href="{{ $posts->previousPageUrl() }}">
+                                                <i class="icon-angle-left"></i>
+                                            </a>
+                                        </li>
+                                    @endif
+
+                                    {{-- Hiển thị các trang --}}
+                                    @foreach ($posts->getUrlRange(1, $posts->lastPage()) as $page => $url)
+                                        @if ($page == $posts->currentPage())
+                                            <li><span class="page-number current">{{ $page }}</span></li>
+                                        @else
+                                            <li><a class="page-number" href="{{ $url }}">{{ $page }}</a></li>
+                                        @endif
+                                    @endforeach
+
+                                    {{-- Nút "Trang sau" --}}
+                                    @if ($posts->hasMorePages())
+                                        <li>
+                                            <a class="next page-number" href="{{ $posts->nextPageUrl() }}">
+                                                <i class="icon-angle-right"></i>
+                                            </a>
+                                        </li>
+                                    @else
+                                        <li class="disabled"><span class="page-number">&raquo;</span></li>
+                                    @endif
                                 </ul>
-                                {{ $posts->links() }}
                             </div>
                         </div>
                         @livewire('inc.right')

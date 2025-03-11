@@ -2,9 +2,9 @@
 
 namespace App\Filament\Resources;
 
-use App\Filament\Resources\CategoryResource\Pages;
-use App\Filament\Resources\CategoryResource\RelationManagers;
-use App\Models\Category;
+use App\Filament\Resources\ContactResource\Pages;
+use App\Filament\Resources\ContactResource\RelationManagers;
+use App\Models\Contact;
 use Filament\Forms;
 use Filament\Forms\Form;
 use Filament\Resources\Resource;
@@ -12,15 +12,14 @@ use Filament\Tables;
 use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
-use Illuminate\Support\Str;
 
-class CategoryResource extends Resource
+class ContactResource extends Resource
 {
-    protected static ?string $model = Category::class;
-    protected static ?string $navigationGroup = 'Quản lý chung';
+    protected static ?string $model = Contact::class;
+    protected static ?string $navigationGroup = 'Liên hệ';
     public static function getPluralModelLabel(): string
     {
-        return 'Danh mục';
+        return 'Liên hệ';
     }
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
 
@@ -29,28 +28,18 @@ class CategoryResource extends Resource
         return $form
             ->schema([
                 Forms\Components\TextInput::make('name')
-                ->label('Tên danh mục')
-                ->required()
-                ->live(onBlur: true)
-                ->afterStateUpdated(
-                    fn(string $operation, $state, Forms\Set $set) =>
-                    $operation === 'create' ? $set('slug', Str::slug($state)) : null
-                )
-                ->maxLength(255)
-                ->label('Tên sản phẩm'), // Việt hóa nhãn
-            Forms\Components\TextInput::make('slug')
-                ->label('Slug')
-                ->dehydrated()
-                ->unique(Category::class, ignoreRecord: true)
-                ->required()
-                ->maxLength(255)
-                ->label('Slug'), // Việt hóa nhãn
-                Forms\Components\Select::make('parent_id')
-
-                    ->options(Category::all()->pluck('name', 'id'))
-                    ->preload()
-                    ->nullable()
-                    ->label('Danh mục cha'),
+                    ->label('Tên')
+                    ->required()
+                    ->maxLength(255),
+                Forms\Components\TextInput::make('phone')
+                    ->label('Số điện thoại')
+                    ->tel()
+                    ->required()
+                    ->maxLength(255),
+                Forms\Components\Textarea::make('content')
+                    ->label('Nội dung')
+                    ->required()
+                    ->columnSpanFull(),
             ]);
     }
 
@@ -62,22 +51,19 @@ class CategoryResource extends Resource
                     ->label('ID')
                     ->sortable(),
                 Tables\Columns\TextColumn::make('name')
-                    ->label('Tên danh mục')
+                    ->label('Tên')
                     ->searchable(),
-                Tables\Columns\TextColumn::make('slug')
-                    ->label('Slug')
+                Tables\Columns\TextColumn::make('phone')
+                    ->label('Số điện thoại')
                     ->searchable(),
-                Tables\Columns\TextColumn::make('parent.name')
-                    ->label('Danh mục cha')
-                    ->numeric()
-                    ->sortable(),
+                Tables\Columns\TextColumn::make('content')
+                    ->label('Nội dung')
+                    ->searchable(),
                 Tables\Columns\TextColumn::make('created_at')
                     ->label('Ngày tạo')
                     ->dateTime()
-                    ->sortable()
-                   ,
+                    ->sortable(),
                 Tables\Columns\TextColumn::make('updated_at')
-                    ->label('Ngày cập nhật')
                     ->dateTime()
                     ->sortable()
                     ->toggleable(isToggledHiddenByDefault: true),
@@ -107,6 +93,7 @@ class CategoryResource extends Resource
         return static::getModel()::count();
     }
 
+
     public static function getRelations(): array
     {
         return [
@@ -117,9 +104,9 @@ class CategoryResource extends Resource
     public static function getPages(): array
     {
         return [
-            'index' => Pages\ListCategories::route('/'),
-            'create' => Pages\CreateCategory::route('/create'),
-            'edit' => Pages\EditCategory::route('/{record}/edit'),
+            'index' => Pages\ListContacts::route('/'),
+            'create' => Pages\CreateContact::route('/create'),
+            'edit' => Pages\EditContact::route('/{record}/edit'),
         ];
     }
 }

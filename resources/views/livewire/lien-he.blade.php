@@ -2226,36 +2226,26 @@
                                                 <p role="status" aria-live="polite" aria-atomic="true"></p>
                                                 <ul></ul>
                                             </div>
-                                            <form action="/lien-he/#wpcf7-f320-p838-o1" method="post"
-                                                class="wpcf7-form init" aria-label="Form liên hệ"
-                                                novalidate="novalidate" data-status="init">
-                                                <div style="display: none;">
-                                                    <input type="hidden" name="_wpcf7" value="320" />
-                                                    <input type="hidden" name="_wpcf7_version" value="5.8.7" />
-                                                    <input type="hidden" name="_wpcf7_locale" value="vi" />
-                                                    <input type="hidden" name="_wpcf7_unit_tag"
-                                                        value="wpcf7-f320-p838-o1" />
-                                                    <input type="hidden" name="_wpcf7_container_post" value="838" />
-                                                    <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-                                                </div>
+                                            <form wire:submit.prevent="submit">
+
                                                 <div class="form-lien-he">
-                                                    <p><span class="wpcf7-form-control-wrap" data-name="text-705"><input
+                                                    <p><input
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                                                                 aria-required="true" aria-invalid="false"
-                                                                placeholder="Họ tên:" value="" type="text"
-                                                                name="text-705" /></span><br />
+                                                                placeholder="Họ tên:" wire:model="name" type="text"
+                                                                name="text-705" required/></span><br />
                                                         <span class="wpcf7-form-control-wrap" data-name="tel-999"><input
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel"
                                                                 aria-required="true" aria-invalid="false"
-                                                                placeholder="Số điện thoại" value="" type="tel"
+                                                                placeholder="Số điện thoại" wire:model="phone" required type="tel"
                                                                 name="tel-999" /></span><br />
                                                         <span class="wpcf7-form-control-wrap"
                                                             data-name="text-706"><input size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                                                                 aria-required="true" aria-invalid="false"
-                                                                placeholder="Nhu cầu:" value="" type="text"
+                                                                placeholder="Nhu cầu:" wire:model="content" type="text"
                                                                 name="text-706" /></span>
                                                     </p>
                                                     <div class="btn-gui">
@@ -2264,7 +2254,11 @@
                                                         </p>
                                                     </div>
                                                 </div>
-                                                <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                                @if (session()->has('message'))
+
+                                                <div class="wpcf7-response-output" aria-hidden="true">{{ session('message') }}</div>
+
+                                            @endif
                                             </form>
                                         </div>
 

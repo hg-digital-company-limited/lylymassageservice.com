@@ -94,7 +94,7 @@
                                 <li class="header-search-form search-form html relative has-icon">
                                     <div class="header-search-form-wrapper">
                                         <div class="searchform-wrapper ux-search-box relative is-normal">
-                                            <form method="get" class="searchform" action="/" role="search">
+                                            <form method="get" class="searchform" action="/search" role="search">
                                                 <div class="flex-row relative">
                                                     <div class="flex-col flex-grow">
                                                         <input type="search" class="search-field mb-0" name="s" value=""
@@ -151,23 +151,22 @@
                                     <ul class="sub-menu nav-dropdown nav-dropdown-default">
                                         @foreach($category->children as $child)
 
-                                        <li id="menu-item-710"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-710 nav-dropdown-col">
-                                        <a href="/danh-muc/{{ $child->slug }}/" aria-expanded="false"
-                                            aria-haspopup="menu">{{ $child->name }}<i class="icon-angle-down"></i></a>
-                                        <ul class="sub-menu nav-column nav-dropdown-default">
-                                            @foreach($child->posts as $post)
-                                            <li id="menu-item-736"
-                                            class="menu-item menu-item-type-post_type menu-item-object-post menu-item-736">
-                                            <a
-                                                href="/dich-vu/{{ $post->slug }}">{{ $post->title }}</a>
-                                        </li>
+                                            <li id="menu-item-710"
+                                                class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-710 nav-dropdown-col">
+                                                <a href="/danh-muc/{{ $child->slug }}/" aria-expanded="false"
+                                                    aria-haspopup="menu">{{ $child->name }}<i class="icon-angle-down"></i></a>
+                                                <ul class="sub-menu nav-column nav-dropdown-default">
+                                                    @foreach($child->posts as $post)
+                                                        <li id="menu-item-736"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-post menu-item-736">
+                                                            <a href="/dich-vu/{{ $post->slug }}">{{ $post->title }}</a>
+                                                        </li>
+                                                    @endforeach
+
+
+                                                </ul>
+                                            </li>
                                         @endforeach
-
-
-                                        </ul>
-                                    </li>
-                                    @endforeach
 
 
                                     </ul>
@@ -194,9 +193,9 @@
                             @endif
                         @endforeach
                         <li id="menu-item-734"
-                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734 menu-item-design-default">
-                        <a href="/lien-he/" class="nav-top-link">Liên hệ</a>
-                    </li>
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734 menu-item-design-default">
+                            <a href="/lien-he/" class="nav-top-link">Liên hệ</a>
+                        </li>
 
 
                     </ul>
@@ -218,4 +217,12 @@
             <div class="header-bg-color fill"></div>
         </div>
     </div>
+    <style>
+        .nav-right li.current-dropdown:last-child>.nav-dropdown,
+        .nav-right li.has-dropdown:hover:last-child>.nav-dropdown {
+            left: auto;
+            right: 0;
+            width: 100%;
+        }
+    </style>
 </header>
