@@ -11,9 +11,9 @@
                     <a href="/"
                         title="Mẫu theme wordpress spa làm đẹp - Tất cả nội dung và hình ảnh trên web chỉ dùng để demo mẫu website"
                         rel="home">
-                        <img width="1020" height="289" src="/assets/wp-content/uploads/2024/02/partner-06-1024x290.png"
+                        <img width="1020" height="289" src="/icon/logo.png"
                             class="header_logo header-logo" alt="Mẫu theme wordpress spa làm đẹp" /><img width="1020"
-                            height="289" src="/assets/wp-content/uploads/2024/02/partner-06-1024x290.png"
+                            height="289" src="/icon/logo.png"
                             class="header-logo-dark" alt="Mẫu theme wordpress spa làm đẹp" /></a>
                 </div>
 
@@ -131,7 +131,7 @@
                             <a href="/" aria-current="page" class="nav-top-link"><img class="ux-menu-icon" width="20"
                                     height="20"
                                     src="/assets/wp-content/uploads/2024/02/1490971322-map-icons-4_82748-150x150.png"
-                                    alt="" />Trang chủ</a>
+                                    alt="" />홈페이지</a>
                         </li>
                         <li id="menu-item-819"
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-819 menu-item-design-default">
@@ -194,7 +194,7 @@
                         @endforeach
                         <li id="menu-item-734"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734 menu-item-design-default">
-                            <a href="/lien-he/" class="nav-top-link">Liên hệ</a>
+                            <a href="/lien-he/" class="nav-top-link">연락하다</a>
                         </li>
 
 

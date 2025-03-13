@@ -2079,9 +2079,8 @@
                             <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1820023156">
                                 <div class="img-inner dark">
                                     <img loading="lazy" decoding="async" width="1920" height="801"
-                                        src="/assets/wp-content/uploads/2024/02/01-1.jpg"
+                                        src="/icon/Screenshot 2025-03-13 101604.png"
                                         class="attachment-original size-original" alt=""
-                                        srcset="/assets/wp-content/uploads/2024/02/01-1.jpg 1920w, /assets/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, /assets/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, /assets/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, /assets/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
                                         sizes="(max-width: 1920px) 100vw, 1920px" />
                                 </div>
 
@@ -2091,21 +2090,7 @@
                                     }
                                 </style>
                             </div>
-                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_720755815">
-                                <div class="img-inner dark">
-                                    <img loading="lazy" decoding="async" width="1920" height="801"
-                                        src="/assets/wp-content/uploads/2024/02/01-1.jpg"
-                                        class="attachment-original size-original" alt=""
-                                        srcset="/assets/wp-content/uploads/2024/02/01-1.jpg 1920w, /assets/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, /assets/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, /assets/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, /assets/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
-                                        sizes="(max-width: 1920px) 100vw, 1920px" />
-                                </div>
 
-                                <style>
-                                    #image_720755815 {
-                                        width: 100%;
-                                    }
-                                </style>
-                            </div>
                         </div>
 
                         <div class="loading-spin dark large centered"></div>

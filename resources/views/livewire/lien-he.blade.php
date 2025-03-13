@@ -1,26 +1,22 @@
 <div>
+
     <head>
 
         <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
         <title>Trang chủ &#8211; Mẫu theme wordpress spa làm đẹp</title>
-        <link rel='prefetch'
-            href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3' />
-        <link rel='prefetch'
-            href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.18.3' />
-        <link rel='prefetch'
-            href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.18.3' />
-        <link rel='prefetch'
-            href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.18.3' />
+        <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/flatsome.js?ver=be4456ec53c49e21f6f3' />
+        <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.18.3' />
+        <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.18.3' />
+        <link rel='prefetch' href='/assets/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.18.3' />
         <link rel='stylesheet' id='contact-form-7-css'
-            href='/assets/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7'
-            type='text/css' media='all' />
+            href='/assets/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7' type='text/css'
+            media='all' />
         <link rel='stylesheet' id='font-awesome-official-css'
             href='https://use.fontawesome.com/releases/v6.1.2/css/all.css' type='text/css' media='all'
             integrity="sha384-fZCoUih8XsaUZnNDOiLqnby1tMJ0sE7oBbNk2Xxf5x8Z4SvNQ9j83vFMa/erbVrV"
             crossorigin="anonymous" />
         <link rel='stylesheet' id='flatsome-main-css'
-            href='/assets/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.18.3'
-            type='text/css' media='all' />
+            href='/assets/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.18.3' type='text/css' media='all' />
         <style id='flatsome-main-inline-css' type='text/css'>
             @font-face {
                 font-family: "fl-icons";
@@ -34,9 +30,8 @@
                     url(/assets/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.18.3#fl-icons) format("svg");
             }
         </style>
-        <link rel='stylesheet' id='flatsome-style-css'
-            href='/assets/wp-content/themes/flatsome-child/style.css?ver=3.0' type='text/css'
-            media='all' />
+        <link rel='stylesheet' id='flatsome-style-css' href='/assets/wp-content/themes/flatsome-child/style.css?ver=3.0'
+            type='text/css' media='all' />
         <link rel='stylesheet' id='font-awesome-official-v4shim-css'
             href='https://use.fontawesome.com/releases/v6.1.2/css/v4-shims.css' type='text/css' media='all'
             integrity="sha384-iW7MVRJO9Fj06GFbRcMqdZBcVQhjBWlVXUjtY7XCppA+DZUoHBQ7B8VB+EjXUkPV"
@@ -2085,9 +2080,8 @@
                             <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_710276997">
                                 <div class="img-inner dark">
                                     <img fetchpriority="high" decoding="async" width="1920" height="801"
-                                        src="/assets/wp-content/uploads/2024/02/01-1.jpg"
+                                        src="/icon/Screenshot 2025-03-13 101604.png"
                                         class="attachment-original size-original" alt=""
-                                        srcset="/assets/wp-content/uploads/2024/02/01-1.jpg 1920w, /assets/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, /assets/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, /assets/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, /assets/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
                                         sizes="(max-width: 1920px) 100vw, 1920px" />
                                 </div>
 
@@ -2098,21 +2092,7 @@
                                 </style>
                             </div>
 
-                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_285077566">
-                                <div class="img-inner dark">
-                                    <img fetchpriority="high" decoding="async" width="1920" height="801"
-                                        src="/assets/wp-content/uploads/2024/02/01-1.jpg"
-                                        class="attachment-original size-original" alt=""
-                                        srcset="/assets/wp-content/uploads/2024/02/01-1.jpg 1920w, /assets/wp-content/uploads/2024/02/01-1-300x125.jpg 300w, /assets/wp-content/uploads/2024/02/01-1-1024x427.jpg 1024w, /assets/wp-content/uploads/2024/02/01-1-768x320.jpg 768w, /assets/wp-content/uploads/2024/02/01-1-1536x641.jpg 1536w"
-                                        sizes="(max-width: 1920px) 100vw, 1920px" />
-                                </div>
 
-                                <style>
-                                    #image_285077566 {
-                                        width: 100%;
-                                    }
-                                </style>
-                            </div>
 
                         </div>
 
@@ -2142,52 +2122,47 @@
 
 
                                         <div class="icon-box featured-box icon-box-center text-center">
-                                            <div class="icon-box-img" style="width: 60px">
-                                                <div class="icon">
-                                                    <div class="icon-inner">
-                                                        <img decoding="async" width="59" height="59"
-                                                            src="/assets/wp-content/uploads/2020/10/icon-hotline.png"
-                                                            class="attachment-medium size-medium" alt="" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="icon-box-text last-reset">
+                                            <img src="/icon/z6401545702013_d43c3d47cbd886c31bd361d2bcaebdf9.jpg" alt="logo">
 
-                                                <p class="call-action">LIÊN HỆ HOTLINE</p>
-                                                <p class="call-hotline">099999.xxx</p>
-                                                <div class="des">Giải đáp miễn phí mọi thắc mắc<br />
-                                                    của khách hàng 24/7</div>
-                                            </div>
                                         </div>
 
 
                                     </div>
                                 </div>
-
-
-
-                                <div id="col-1470985051" class="col cot2 medium-3 small-12 large-3">
+                                <div id="col-1204027003" class="col cot1 medium-3 small-12 large-3">
                                     <div class="col-inner">
 
 
 
                                         <div class="icon-box featured-box icon-box-center text-center">
-                                            <div class="icon-box-img" style="width: 60px">
-                                                <div class="icon">
-                                                    <div class="icon-inner">
-                                                        <img decoding="async" width="59" height="59"
-                                                            src="/assets/wp-content/uploads/2020/10/icon-dat-lich.png"
-                                                            class="attachment-medium size-medium" alt="" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="icon-box-text last-reset">
+                                            <img src="/icon/z6401636584330_3536a8cc2af04a1b76e442d2b67b621b.jpg" alt="logo">
 
-                                                <p class="call-action">ĐẶT LỊCH TƯ VẤN TRỰC TIẾP</p>
-                                                <p class="call-hotline">MIỄN PHÍ 100%</p>
-                                                <div class="des">Cùng các chuyên gia<br />
-                                                    hàng đầu tại thu cúc</div>
-                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                                <div id="col-1204027003" class="col cot1 medium-3 small-12 large-3">
+                                    <div class="col-inner">
+
+
+
+                                        <div class="icon-box featured-box icon-box-center text-center">
+                                            <img src="/icon/z6401637513021_70e095493a3dca4ed30271cfae6a9330.jpg" alt="logo">
+
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                                <div id="col-1204027003" class="col cot1 medium-3 small-12 large-3">
+                                    <div class="col-inner">
+
+
+
+                                        <div class="icon-box featured-box icon-box-center text-center">
+                                            <img src="/icon/z6401638379361_78ddf4f0582eb43e99d58866f31f0115.jpg" alt="logo">
+
                                         </div>
 
 
@@ -2196,7 +2171,9 @@
 
 
 
-                                <div id="col-845766431" class="col cot3 medium-4 small-12 large-4">
+
+
+                                {{-- <div id="col-845766431" class="col cot3 medium-4 small-12 large-4">
                                     <div class="col-inner">
 
 
@@ -2209,18 +2186,17 @@
                                             <form wire:submit.prevent="submit">
 
                                                 <div class="form-lien-he">
-                                                    <p><input
-                                                                size="40"
-                                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                aria-required="true" aria-invalid="false"
-                                                                placeholder="Họ tên:" wire:model="name" type="text"
-                                                                name="text-705" required/></span><br />
+                                                    <p><input size="40"
+                                                            class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                                                            aria-required="true" aria-invalid="false"
+                                                            placeholder="Họ tên:" wire:model="name" type="text"
+                                                            name="text-705" required /></span><br />
                                                         <span class="wpcf7-form-control-wrap" data-name="tel-999"><input
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel"
                                                                 aria-required="true" aria-invalid="false"
-                                                                placeholder="Số điện thoại" wire:model="phone" required type="tel"
-                                                                name="tel-999" /></span><br />
+                                                                placeholder="Số điện thoại" wire:model="phone" required
+                                                                type="tel" name="tel-999" /></span><br />
                                                         <span class="wpcf7-form-control-wrap"
                                                             data-name="text-706"><input size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
@@ -2236,14 +2212,15 @@
                                                 </div>
                                                 @if (session()->has('message'))
 
-                                                <div class="wpcf7-response-output" aria-hidden="true">{{ session('message') }}</div>
+                                                    <div class="wpcf7-response-output" aria-hidden="true">
+                                                        {{ session('message') }}</div>
 
-                                            @endif
+                                                @endif
                                             </form>
                                         </div>
 
                                     </div>
-                                </div>
+                                </div> --}}
 
 
                             </div>
@@ -2893,15 +2870,13 @@
             }
         </style>
         <script type="text/javascript"
-            src="/assets/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.7"
-            id="swv-js"></script>
+            src="/assets/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.7" id="swv-js"></script>
         <script type="text/javascript" id="contact-form-7-js-extra">
             /* <![CDATA[ */
             var wpcf7 = { "api": { "root": "\/assets\/wp-json\/", "namespace": "contact-form-7\/v1" } };
             /* ]]> */
         </script>
-        <script type="text/javascript"
-            src="/assets/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.7"
+        <script type="text/javascript" src="/assets/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.7"
             id="contact-form-7-js"></script>
         <script type="text/javascript"
             src="/assets/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1"
