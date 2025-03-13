@@ -25,7 +25,7 @@
                         <div class="ux-logo has-hover align-middle ux_logo inline-block"
                             style="max-width: 100%!important; width: 206.47058823529px!important">
                             <div class="ux-logo-link block image-" title="" href="" style="padding: 15px;"><img
-                                    src="/assets/wp-content/uploads/2024/02/partner-06.png" title="" alt=""
+                                    src="/icon/logo.png" title="" alt=""
                                     class="ux-logo-image block" style="height:50px;" /></div>
                         </div>
 

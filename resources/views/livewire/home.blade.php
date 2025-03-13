@@ -2111,32 +2111,7 @@
                         <div class="section-content relative">
                             <div class="row" id="row-1243857379">
                                 <div id="col-1942155920" class="col medium-6 small-12 large-6">
-                                    <div class="col-inner text-center">
-
-                                        <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_34183814">
-                                            <div class="img-inner dark">
-                                                <img loading="lazy" decoding="async" width="467" height="143"
-                                                    src="/assets/wp-content/uploads/2024/02/cau-chuyen-thuong-hieu-png.png"
-                                                    class="attachment-original size-original" alt=""
-                                                    srcset="/assets/wp-content/uploads/2024/02/cau-chuyen-thuong-hieu-png.png 467w, /assets/wp-content/uploads/2024/02/cau-chuyen-thuong-hieu-png-300x92.png 300w"
-                                                    sizes="(max-width: 467px) 100vw, 467px" />
-                                            </div>
-
-                                            <style>
-                                                #image_34183814 {
-                                                    width: 39%;
-                                                }
-                                            </style>
-                                        </div>
-                                        <div class="video video-fit mb" style="padding-top:56.25%;"><iframe
-                                                loading="lazy"
-                                                title="#DIEUTRIDAUYTINQUAN12| CHĂM SÓC SỨC KHOẺ| NÂNG NIU VẺ ĐẸP| HỌC VIỆN TM GADI"
-                                                width="1020" height="574"
-                                                src="https://www.youtube.com/embed/7GFCFxs8TVI?feature=oembed"
-                                                frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                                allowfullscreen></iframe></div>
-                                    </div>
+                                    <img src="/icon/772c96db657c4151af12d1ff4ed86840.jpg" alt="">
                                 </div>
 
 
@@ -2153,7 +2128,7 @@
                                             </style>
                                         </div>
 
-                                        <p>Xin chào các bạn! <strong>GADISPA SPA</strong> – Đưa những người phụ nữ thanh
+                                        <p>Xin chào các bạn! <strong>LyLy Massage</strong> – Đưa những người phụ nữ thanh
                                             lịch đến với hành trình thơ mộng, tận hưởng những giây phút ngọt ngào đánh
                                             thức
                                             vẻ đẹp tiềm ẩn của chính mình.</p>
@@ -2164,7 +2139,7 @@
                                             đông.
                                             Xu hướng làm đẹp để hoàn thiện bản thân hiện nay không còn bị gò bó bởi giới
                                             tính, độ tuổi, vùng miền, biên giới, màu da hay tôn giáo.</p>
-                                        <p>Tự hào là đối tác chiến lược của tập đoàn <strong>AMITA GROUP</strong>, chúng
+                                        <p>Tự hào là đối tác chiến lược của tập đoàn <strong>LyLy Massage</strong>, chúng
                                             tôi
                                             luôn cải tiến và hướng tới những dịch vụ chăm sóc tốt nhất, hiện đai nhất
                                             cho
