@@ -1,8 +1,6 @@
 <div>
 
     <head>
-        <base href="http://127.0.0.1:8000">
-
         <script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
         <title>Trang chủ - Ly Ly Massage</title>
         <link rel='dns-prefetch' href='//use.fontawesome.com' />
