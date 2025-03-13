@@ -4398,98 +4398,94 @@
 
 
                         <div class="section-content relative">
-                            <div class="row row-small align-center row1" id="row-1192527600">
-                                <div id="col-31247505" class="col cot1 medium-3 small-12 large-3">
+                            <div class="row row-small align-center row1" id="row-837068982">
+
+                                <div id="col-1204027003" class="col cot1 medium-3 small-12 large-3">
                                     <div class="col-inner">
 
 
-                                        <div class="icon-box featured-box icon-box-center text-center">
-                                            <div class="icon-box-img" style="width: 60px">
-                                                <div class="icon">
-                                                    <div class="icon-inner">
-                                                        <img loading="lazy" decoding="async" width="59" height="59"
-                                                            src="/assets/wp-content/uploads/2020/10/icon-hotline.png"
-                                                            class="attachment-medium size-medium" alt="" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="icon-box-text last-reset">
 
-                                                <p class="call-action">LIÊN HỆ HOTLINE</p>
-                                                <p class="call-hotline">099999.xxx</p>
-                                                <div class="des">Giải đáp miễn phí mọi thắc mắc<br />của khách hàng 24/7
-                                                </div>
-                                            </div>
+                                        <div class="icon-box featured-box icon-box-center text-center">
+                                            <img src="/qr/qr-code.png" alt="logo">
+
                                         </div>
+
+
+                                    </div>
+                                </div>
+                                <div id="col-1204027003" class="col cot1 medium-3 small-12 large-3">
+                                    <div class="col-inner">
+
+
+
+                                        <div class="icon-box featured-box icon-box-center text-center">
+                                            <img src="/qr/qr-code (1).png" alt="logo">
+
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                                <div id="col-1204027003" class="col cot1 medium-3 small-12 large-3">
+                                    <div class="col-inner">
+
+
+
+                                        <div class="icon-box featured-box icon-box-center text-center">
+                                            <img src="/qr/qr-code (2).png" alt="logo">
+
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                                <div id="col-1204027003" class="col cot1 medium-3 small-12 large-3">
+                                    <div class="col-inner">
+
+
+
+                                        <div class="icon-box featured-box icon-box-center text-center">
+                                            <img src="/qr/qr-code (3).png" alt="logo">
+
+                                        </div>
+
 
                                     </div>
                                 </div>
 
 
-                                <div id="col-1115945789" class="col cot2 medium-3 small-12 large-3">
+
+
+
+                                {{-- <div id="col-845766431" class="col cot3 medium-4 small-12 large-4">
                                     <div class="col-inner">
 
 
-                                        <div class="icon-box featured-box icon-box-center text-center">
-                                            <div class="icon-box-img" style="width: 60px">
-                                                <div class="icon">
-                                                    <div class="icon-inner">
-                                                        <img loading="lazy" decoding="async" width="59" height="59"
-                                                            src="/assets/wp-content/uploads/2020/10/icon-dat-lich.png"
-                                                            class="attachment-medium size-medium" alt="" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="icon-box-text last-reset">
 
-                                                <p class="call-action">ĐẶT LỊCH TƯ VẤN TRỰC TIẾP</p>
-                                                <p class="call-hotline">MIỄN PHÍ 100%</p>
-                                                <div class="des">Cùng các chuyên gia<br />hàng đầu tại thu cúc</div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-
-                                <div id="col-1824825450" class="col cot3 medium-4 small-12 large-4">
-                                    <div class="col-inner">
-
-
-                                        <div class="wpcf7 no-js" id="wpcf7-f320-p718-o1" lang="vi" dir="ltr">
+                                        <div class="wpcf7 no-js" id="wpcf7-f320-p838-o1" lang="vi" dir="ltr">
                                             <div class="screen-reader-response">
                                                 <p role="status" aria-live="polite" aria-atomic="true"></p>
                                                 <ul></ul>
                                             </div>
-                                            <form action="/#wpcf7-f320-p718-o1" method="post" class="wpcf7-form init"
-                                                aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
-                                                <div style="display: none;">
-                                                    <input type="hidden" name="_wpcf7" value="320" />
-                                                    <input type="hidden" name="_wpcf7_version" value="5.8.7" />
-                                                    <input type="hidden" name="_wpcf7_locale" value="vi" />
-                                                    <input type="hidden" name="_wpcf7_unit_tag"
-                                                        value="wpcf7-f320-p718-o1" />
-                                                    <input type="hidden" name="_wpcf7_container_post" value="718" />
-                                                    <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-                                                </div>
+                                            <form wire:submit.prevent="submit">
+
                                                 <div class="form-lien-he">
-                                                    <p><span class="wpcf7-form-control-wrap" data-name="text-705"><input
-                                                                size="40"
-                                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                aria-required="true" aria-invalid="false"
-                                                                placeholder="Họ tên:" value="" type="text"
-                                                                name="text-705" /></span><br />
+                                                    <p><input size="40"
+                                                            class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                                                            aria-required="true" aria-invalid="false"
+                                                            placeholder="Họ tên:" wire:model="name" type="text"
+                                                            name="text-705" required /></span><br />
                                                         <span class="wpcf7-form-control-wrap" data-name="tel-999"><input
                                                                 size="40"
                                                                 class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel"
                                                                 aria-required="true" aria-invalid="false"
-                                                                placeholder="Số điện thoại" value="" type="tel"
-                                                                name="tel-999" /></span><br />
+                                                                placeholder="Số điện thoại" wire:model="phone" required
+                                                                type="tel" name="tel-999" /></span><br />
                                                         <span class="wpcf7-form-control-wrap"
                                                             data-name="text-706"><input size="40"
                                                                 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
                                                                 aria-required="true" aria-invalid="false"
-                                                                placeholder="Nhu cầu:" value="" type="text"
+                                                                placeholder="Nhu cầu:" wire:model="content" type="text"
                                                                 name="text-706" /></span>
                                                     </p>
                                                     <div class="btn-gui">
@@ -4498,11 +4494,18 @@
                                                         </p>
                                                     </div>
                                                 </div>
-                                                <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                                @if (session()->has('message'))
+
+                                                    <div class="wpcf7-response-output" aria-hidden="true">
+                                                        {{ session('message') }}</div>
+
+                                                @endif
                                             </form>
                                         </div>
+
                                     </div>
-                                </div>
+                                </div> --}}
+
 
                             </div>
                         </div>

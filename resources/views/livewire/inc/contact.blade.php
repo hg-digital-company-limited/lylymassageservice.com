@@ -15,7 +15,7 @@
     <section id="azt-contact-footer-outer">
         <div id="azt-contact-footer">
             <a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay">
-                <img src="/assets/wp-content/uploads/2023/05/menu.png" alt="menu"><span>Menu</span></span></a>
+                <img src="/assets/wp-content/uploads/2023/05/menu.png" alt="menu"><span class="azt-contact-footer-btn-label">Menu</span></span></a>
             <a href="/lien-he">
                 <span>
                     <img src="/assets/wp-content/uploads/2023/05/button-contact-3399.jpg" alt="Kho theme">

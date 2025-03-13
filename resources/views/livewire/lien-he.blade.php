@@ -2122,7 +2122,7 @@
 
 
                                         <div class="icon-box featured-box icon-box-center text-center">
-                                            <img src="/icon/z6401545702013_d43c3d47cbd886c31bd361d2bcaebdf9.jpg" alt="logo">
+                                            <img src="/qr/qr-code.png" alt="logo">
 
                                         </div>
 
@@ -2135,7 +2135,7 @@
 
 
                                         <div class="icon-box featured-box icon-box-center text-center">
-                                            <img src="/icon/z6401636584330_3536a8cc2af04a1b76e442d2b67b621b.jpg" alt="logo">
+                                            <img src="/qr/qr-code (1).png" alt="logo">
 
                                         </div>
 
@@ -2148,7 +2148,7 @@
 
 
                                         <div class="icon-box featured-box icon-box-center text-center">
-                                            <img src="/icon/z6401637513021_70e095493a3dca4ed30271cfae6a9330.jpg" alt="logo">
+                                            <img src="/qr/qr-code (2).png" alt="logo">
 
                                         </div>
 
@@ -2161,7 +2161,7 @@
 
 
                                         <div class="icon-box featured-box icon-box-center text-center">
-                                            <img src="/icon/z6401638379361_78ddf4f0582eb43e99d58866f31f0115.jpg" alt="logo">
+                                            <img src="/qr/qr-code (3).png" alt="logo">
 
                                         </div>
 

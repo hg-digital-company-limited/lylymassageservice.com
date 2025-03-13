@@ -21,4 +21,26 @@
         {{ $slot }}
         @livewireScripts
     </body>
+    <div class="gtranslate_wrapper"></div>
+<script>window.gtranslateSettings = {"default_language":"vi","languages":["ko","en","vi","zh-TW","th"],"wrapper_selector":".gtranslate_wrapper"}</script>
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" defer></script>
+<style>
+    #gt_float_wrapper {
+    bottom: 82px !important;
+}
+</style>
+<script>
+    function setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+}
+
+// Thiết lập cookie googtrans với giá trị /vi/ko
+setCookie('googtrans', '/vi/ko', 7); // Cookie sẽ hết hạn sau 7 ngày
+</script>
 </html>

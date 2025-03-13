@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Mar 13, 2025 at 03:38 AM
+-- Generation Time: Mar 13, 2025 at 10:53 AM
 -- Server version: 8.0.30
 -- PHP Version: 8.2.27
 
@@ -40,8 +40,8 @@ CREATE TABLE `access_history` (
 --
 
 INSERT INTO `access_history` (`id`, `date`, `visit_count`, `created_at`, `updated_at`) VALUES
-(1, '2025-03-11', 384, '2025-03-11 04:05:37', '2025-03-11 09:29:27'),
-(2, '2025-03-13', 371, '2025-03-13 01:29:07', '2025-03-13 03:37:45');
+(1, '2025-03-11', 333, '2025-03-11 04:05:37', '2025-03-11 05:44:38'),
+(2, '2025-03-13', 175, '2025-03-13 10:15:56', '2025-03-13 10:52:59');
 
 -- --------------------------------------------------------
 
@@ -52,7 +52,7 @@ INSERT INTO `access_history` (`id`, `date`, `visit_count`, `created_at`, `update
 CREATE TABLE `activity_history` (
   `id` bigint UNSIGNED NOT NULL,
   `time` timestamp NOT NULL,
-  `device` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `device` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
@@ -71,8 +71,8 @@ INSERT INTO `activity_history` (`id`, `time`, `device`, `created_at`, `updated_a
 --
 
 CREATE TABLE `cache` (
-  `key` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `value` mediumtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `key` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `value` mediumtext CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `expiration` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
@@ -81,8 +81,8 @@ CREATE TABLE `cache` (
 --
 
 INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
-('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1741836505),
-('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1741836505;', 1741836505);
+('356a192b7913b04c54574d18c28d46e6395428ab', 'i:2;', 1741671253),
+('356a192b7913b04c54574d18c28d46e6395428ab:timer', 'i:1741671253;', 1741671253);
 
 -- --------------------------------------------------------
 
@@ -91,8 +91,8 @@ INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
 --
 
 CREATE TABLE `cache_locks` (
-  `key` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `owner` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `key` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `owner` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `expiration` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
@@ -104,8 +104,8 @@ CREATE TABLE `cache_locks` (
 
 CREATE TABLE `categories` (
   `id` bigint UNSIGNED NOT NULL,
-  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `slug` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `slug` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `parent_id` bigint UNSIGNED DEFAULT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
@@ -116,12 +116,16 @@ CREATE TABLE `categories` (
 --
 
 INSERT INTO `categories` (`id`, `name`, `slug`, `parent_id`, `created_at`, `updated_at`) VALUES
-(25, '베트남 나트랑 출장마사지', '베트남 나트랑 출장마사지', NULL, '2025-03-13 03:32:41', '2025-03-13 03:33:56'),
-(26, '베트남 다낭 출장 마사지', '베트남 다낭 출장 마사지', NULL, '2025-03-13 03:33:19', '2025-03-13 03:34:00'),
-(27, '베트남 달랏 출장마사지', '베트남 달랏 출장마사지', NULL, '2025-03-13 03:33:50', '2025-03-13 03:33:50'),
-(28, '베트남 하노이 출장마사지', '베트남 하노이 출장마사지', NULL, '2025-03-13 03:36:21', '2025-03-13 03:36:21'),
-(29, '베트남 호이안 출장마사지', '베트남 호이안 출장마사지', NULL, '2025-03-13 03:36:32', '2025-03-13 03:36:32'),
-(30, '베트남 호치민 출장마사지', '베트남 호치민 출장마사지', NULL, '2025-03-13 03:36:48', '2025-03-13 03:36:48');
+(1, 'Thẩm mỹ mặt', 'tham-my-mat', NULL, '2025-03-10 14:09:53', '2025-03-10 14:09:53'),
+(2, 'Thẩm mỹ mắt', 'tham-my-mat-tham-my-mat', 1, '2025-03-10 14:18:16', '2025-03-10 14:18:16'),
+(3, 'Thẩm mỹ mũi', 'tham-my-mui', 1, '2025-03-10 14:18:30', '2025-03-10 14:18:30'),
+(4, 'Thẩm mỹ không phẫu thuật', 'tham-my-khong-phau-thuat', 1, '2025-03-10 14:18:37', '2025-03-10 14:18:37'),
+(5, 'Cấy mỡ', 'cay-mo', 1, '2025-03-10 14:18:57', '2025-03-10 14:18:57'),
+(6, 'Thẩm mỹ khác', 'tham-my-khac', 1, '2025-03-10 14:19:03', '2025-03-10 14:19:03'),
+(7, 'Thẩm mỹ vóc dáng', 'tham-my-voc-dang', NULL, '2025-03-10 14:19:10', '2025-03-10 14:19:10'),
+(8, 'Phun xăm thẩm mỹ', 'phun-xam-tham-my', NULL, '2025-03-10 14:19:15', '2025-03-10 14:19:15'),
+(9, 'Thẩm mỹ công nghệ cao', 'tham-my-cong-nghe-cao', NULL, '2025-03-10 14:19:20', '2025-03-10 14:19:20'),
+(10, 'Dịch vụ khác', 'dich-vu-khac', NULL, '2025-03-10 14:19:24', '2025-03-10 14:19:24');
 
 -- --------------------------------------------------------
 
@@ -131,9 +135,9 @@ INSERT INTO `categories` (`id`, `name`, `slug`, `parent_id`, `created_at`, `upda
 
 CREATE TABLE `contacts` (
   `id` bigint UNSIGNED NOT NULL,
-  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `phone` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `content` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `phone` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `content` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
@@ -156,11 +160,11 @@ INSERT INTO `contacts` (`id`, `name`, `phone`, `content`, `created_at`, `updated
 
 CREATE TABLE `failed_jobs` (
   `id` bigint UNSIGNED NOT NULL,
-  `uuid` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `connection` text COLLATE utf8mb4_unicode_ci NOT NULL,
-  `queue` text COLLATE utf8mb4_unicode_ci NOT NULL,
-  `payload` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
-  `exception` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `uuid` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `connection` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `queue` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `payload` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `exception` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `failed_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
@@ -172,8 +176,8 @@ CREATE TABLE `failed_jobs` (
 
 CREATE TABLE `jobs` (
   `id` bigint UNSIGNED NOT NULL,
-  `queue` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `payload` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `queue` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `payload` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `attempts` tinyint UNSIGNED NOT NULL,
   `reserved_at` int UNSIGNED DEFAULT NULL,
   `available_at` int UNSIGNED NOT NULL,
@@ -187,13 +191,13 @@ CREATE TABLE `jobs` (
 --
 
 CREATE TABLE `job_batches` (
-  `id` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `id` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `total_jobs` int NOT NULL,
   `pending_jobs` int NOT NULL,
   `failed_jobs` int NOT NULL,
-  `failed_job_ids` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
-  `options` mediumtext COLLATE utf8mb4_unicode_ci,
+  `failed_job_ids` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `options` mediumtext CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
   `cancelled_at` int DEFAULT NULL,
   `created_at` int NOT NULL,
   `finished_at` int DEFAULT NULL
@@ -207,7 +211,7 @@ CREATE TABLE `job_batches` (
 
 CREATE TABLE `migrations` (
   `id` int UNSIGNED NOT NULL,
-  `migration` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `migration` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `batch` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
@@ -232,8 +236,8 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 --
 
 CREATE TABLE `password_reset_tokens` (
-  `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `token` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `email` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `token` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
@@ -245,11 +249,11 @@ CREATE TABLE `password_reset_tokens` (
 
 CREATE TABLE `posts` (
   `id` bigint UNSIGNED NOT NULL,
-  `title` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `slug` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `short_description` text COLLATE utf8mb4_unicode_ci NOT NULL,
-  `long_description` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
-  `banner` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `title` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `slug` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `short_description` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `long_description` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `banner` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `category_id` int DEFAULT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
@@ -260,7 +264,7 @@ CREATE TABLE `posts` (
 --
 
 INSERT INTO `posts` (`id`, `title`, `slug`, `short_description`, `long_description`, `banner`, `category_id`, `created_at`, `updated_at`) VALUES
-(1, 'Cắt mí Pro Mini', 'cat-mi-pro-mini', 'Phương pháp cắt mí Pro mini Deep NanoCell 4.0 thế hệ mới tại Hệ thống thẩm mỹ Thu Cúc là bí quyết giúp các tín đồ làm đẹp giữ mãi tuổi thanh xuân với đôi mắt trẻ trung, rạng ngời, đồng thời tôn lên vẻ đẹp cuốn hút với “thần thái” ngút ngàn cho khuôn mặt. Kỹ thuật cắt mí thời đại công nghệ 4.0 được ví như “vị cứu tinh” giúp khắc phục mọi khuyết điểm vùng mắt như: mắt 1 mí, mí lót, mí ẩn, sụp mí, mắt nhiều da trùng, mỡ thừa… tạo cho chị em sự tự tin, ấn tượng trong mắt người đối diện.', 'Phương pháp cắt mí Pro mini Deep NanoCell 4.0 thế hệ mới tại Hệ thống thẩm mỹ Thu Cúc là bí quyết giúp các tín đồ làm đẹp giữ mãi tuổi thanh xuân với đôi mắt trẻ trung, rạng ngời, đồng thời tôn lên vẻ đẹp cuốn hút với “thần thái” ngút ngàn cho khuôn mặt. Kỹ thuật cắt mí thời đại công nghệ 4.0 được ví như “vị cứu tinh” giúp khắc phục mọi khuyết điểm vùng mắt như: mắt 1 mí, mí lót, mí ẩn, sụp mí, mắt nhiều da trùng, mỡ thừa… tạo cho chị em sự tự tin, ấn tượng trong mắt người đối diện.', '01JP1FV8RAD0SVZBBEH6W26K0R.png', 24, '2025-03-11 02:16:55', '2025-03-13 03:29:16'),
+(1, 'Cắt mí Pro Mini', 'cat-mi-pro-mini', 'Phương pháp cắt mí Pro mini Deep NanoCell 4.0 thế hệ mới tại Hệ thống thẩm mỹ Thu Cúc là bí quyết giúp các tín đồ làm đẹp giữ mãi tuổi thanh xuân với đôi mắt trẻ trung, rạng ngời, đồng thời tôn lên vẻ đẹp cuốn hút với “thần thái” ngút ngàn cho khuôn mặt. Kỹ thuật cắt mí thời đại công nghệ 4.0 được ví như “vị cứu tinh” giúp khắc phục mọi khuyết điểm vùng mắt như: mắt 1 mí, mí lót, mí ẩn, sụp mí, mắt nhiều da trùng, mỡ thừa… tạo cho chị em sự tự tin, ấn tượng trong mắt người đối diện.', 'Phương pháp cắt mí Pro mini Deep NanoCell 4.0 thế hệ mới tại Hệ thống thẩm mỹ Thu Cúc là bí quyết giúp các tín đồ làm đẹp giữ mãi tuổi thanh xuân với đôi mắt trẻ trung, rạng ngời, đồng thời tôn lên vẻ đẹp cuốn hút với “thần thái” ngút ngàn cho khuôn mặt. Kỹ thuật cắt mí thời đại công nghệ 4.0 được ví như “vị cứu tinh” giúp khắc phục mọi khuyết điểm vùng mắt như: mắt 1 mí, mí lót, mí ẩn, sụp mí, mắt nhiều da trùng, mỡ thừa… tạo cho chị em sự tự tin, ấn tượng trong mắt người đối diện.', '01JP1FV8RAD0SVZBBEH6W26K0R.png', 2, '2025-03-11 02:16:55', '2025-03-11 02:16:55'),
 (5, 'ĐẠI TIỆC THẨM MỸ – TRI ÂN PHỤ NỮ VIỆT', 'dai-tiec-tham-my-tri-an-phu-nu-viet', 'Vào ngày 18/10/2020, tất cả các khách hàng đến tham dự “Đại tiệc thẩm mỹ – Tri ân phụ nữ Việt” duy nhất tại cơ sở Thu Cúc Long Biên và Lạng Sơn đều được nhận quà ý nghĩa và hấp dẫn. Đây chính là chương trình ưu đãi lớn nhất năm Thu Cúc dành tặng cho phụ nữ Việt Nam nhân ngày 20/10.', 'Vào ngày 18/10/2020, tất cả các khách hàng đến tham dự “Đại tiệc thẩm mỹ – Tri ân phụ nữ Việt” duy nhất tại cơ sở Thu Cúc Long Biên và Lạng Sơn đều được nhận quà ý nghĩa và hấp dẫn. Đây chính là chương trình ưu đãi lớn nhất năm Thu Cúc dành tặng cho phụ nữ Việt Nam nhân ngày 20/10.', '01JP1PXSQWNFBF3JXJVVHABEMG.png', NULL, '2025-03-11 04:16:56', '2025-03-11 04:20:38'),
 (6, 'ƯU ĐÃI “VÀNG” 7 NGÀY LÀM ĐẸP CÙNG PHỤ NỮ VIỆT: ĐẸP HƠN – HẠNH PHÚC HƠN', 'uu-dai-vang-7-ngay-lam-dep-cung-phu-nu-viet-dep-hon-hanh-phuc-hon', 'Hân hoan chào mừng 90 năm Ngày thành lập Hội Liên hiệp Phụ nữ Việt Nam 20/10, từ ngày 13-20/10/2020 chị em có cơ hội NHÂN ĐÔI ƯU ĐÃI khi đến “tân trang nhan sắc” tại Hệ thống Thẩm mỹ Thu Cúc. Bởi phụ nữ đẹp luôn có quà nên đừng ngần ngại đến với Thu Cúc dịp này để làm đẹp giá hời – đón ngàn yêu thương nhé!', '<p>&nbsp;</p><p><strong>Hân hoan chào mừng 90 năm Ngày thành lập Hội Liên hiệp Phụ nữ Việt Nam 20/10, từ ngày 13-20/10/2020 chị em có cơ hội NHÂN ĐÔI ƯU ĐÃI khi đến “tân trang nhan sắc” tại Hệ thống Thẩm mỹ Thu Cúc. Bởi phụ nữ đẹp luôn có quà nên đừng ngần ngại đến với Thu Cúc dịp này để làm đẹp giá hời – đón ngàn yêu thương nhé!</strong></p><p><br><em>Tuần vàng tri ân Phụ nữ Việt</em> duy nhất từ 13-20/10</p><p>Ngày 20/10 hằng năm là dịp đặc biệt để tôn vinh và gửi ngàn lời chúc yêu thương đến các bà, các mẹ và những người phụ nữ Việt. Hơn cả lời yêu, Thu Cúc dành tặng một nửa thế giới chương trình khuyến mãi hấp dẫn lên tới 50%++ các dịch vụ thẩm mỹ HOT hiện nay. Cụ thể:</p><p><br><br></p>', '01JP1PYMNX3KD3TSFKEY77RCGR.png', NULL, '2025-03-11 04:21:05', '2025-03-11 04:21:05'),
 (7, 'NGÀY VÀNG GIÁ SỐC – ĐÓN SINH NHẬT CÙNG THU CÚC MEGA BEAUTY', 'ngay-vang-gia-soc-don-sinh-nhat-cung-thu-cuc-mega-beauty', 'Cơ hội làm đẹp 0 đồng duy nhất trong ngày 10/10/2020 dành riêng cho khách hàng trực tiếp làm đẹp tại Thu Cúc Mega Beauty Center 70 Cầu Giấy. Cùng Thu Cúc mừng ĐẠI TIỆC SINH NHẬT được mong chờ nhất trong năm với nhiều quà tặng hấp dẫn. Đón ngày vàng – Làm đẹp dễ dàng – Không lo chi phí. Đừng bỏ lỡ!\n', '<p>&nbsp;<strong>Cơ hội làm đẹp 0 đồng duy nhất trong ngày 10/10/2020 dành riêng cho khách hàng trực tiếp làm đẹp tại Thu Cúc Mega Beauty Center 70 Cầu Giấy. Cùng Thu Cúc mừng ĐẠI TIỆC SINH NHẬT được mong chờ nhất trong năm với nhiều quà tặng hấp dẫn. Đón ngày vàng – Làm đẹp dễ dàng – Không lo chi phí. Đừng bỏ lỡ!</strong>&nbsp;</p>', '01JP1PZ4W55232N55MP8X1G9HE.png', NULL, '2025-03-11 04:21:22', '2025-03-11 04:21:22'),
@@ -296,11 +300,11 @@ INSERT INTO `posts` (`id`, `title`, `slug`, `short_description`, `long_descripti
 --
 
 CREATE TABLE `sessions` (
-  `id` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `id` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `user_id` bigint UNSIGNED DEFAULT NULL,
-  `ip_address` varchar(45) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
-  `user_agent` text COLLATE utf8mb4_unicode_ci,
-  `payload` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `ip_address` varchar(45) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `user_agent` text CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci,
+  `payload` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `last_activity` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
@@ -309,13 +313,13 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('3jhvGAwML6ji1N57HqK7aB7KYo3pVGJWFniAhUUB', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoicWc1WmxGNjVPZzJxODVHNFdFTlBqdTdvTldYMVpSc2IxVlRNMERLVCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzI6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9naW9pLXRoaWV1Ijt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==', 1741830152),
-('FDse2RLRRcFpAmCl1ihXvU6al3Jg4hCh5sbMY9rO', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoicmNORlZTSW16QkVQRVZwRDlORGlGV1ZPMDRZbVQwcXF3N2FmYmxaOCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1741830473),
-('jMYh49B4OLhq7zuOPVr3WwFy4K0fXsUOX6gBkSg3', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiYjJreDlMTTJEaGZLNm44WnQ0MFlJQm5pOWE2UjUzUXFxRVBOR0tQQyI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6Mjk6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9saWVuLWhlIjt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==', 1741836234),
-('lj1x8XoeI3w4hnQLzt3dlDqWBe7uqQGs0mfJbbVn', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiaHl6TlU2NXh0dExXTWxYZXp5VU9lVzJDUnBjM1pyVlhlUnR6eWNMNiI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1741830031),
-('OvZYvMASHPKEdWzth5DIFSVLyGX2Wd0bVXjH9hxw', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoiWEJCUXl6bGhqZXhJRURTUEc2UWVmM3NnZ1dEczNNdU91VXloWFpobyI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fXM6MzoidXJsIjthOjA6e31zOjUwOiJsb2dpbl93ZWJfNTliYTM2YWRkYzJiMmY5NDAxNTgwZjAxNGM3ZjU4ZWE0ZTMwOTg5ZCI7aToxO3M6MTc6InBhc3N3b3JkX2hhc2hfd2ViIjtzOjYwOiIkMnkkMTIkbnZMWmJadk1pSGxUYjN3Vy5hUHZhT2dZVzJhUEN3UVVnWXdXMDI0U2p1Ny56ektEbk5UVi4iO3M6ODoiZmlsYW1lbnQiO2E6MDp7fX0=', 1741837065),
-('SHR4PjdfJCFjIv0qvjThJ7jCt6TJujDlpSJbsAET', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiUjFMd2dlaGlFRU90RWV5Zm44aGdZWUgxSUxqSndqb1lrSGhMN013USI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzQ6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9kYW5oLW11Yy8xMjMiO31zOjY6Il9mbGFzaCI7YToyOntzOjM6Im9sZCI7YTowOnt9czozOiJuZXciO2E6MDp7fX19', 1741836959),
-('WnRHZdVqZsAIFvnwPYVBLOVfrP6NpN380CuwCZBu', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiUENtcFA3TVIzeGl5eVZoQWtDOXpUMEZYNEYzMlJKZXVkcWc2dGtxRCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MzI6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9naW9pLXRoaWV1Ijt9czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319fQ==', 1741830226);
+('2Gl5Ffq7uIORwxJMJD1z7VCNFTKlk34NkD7T12px', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiNXdlZ3oyQVpKeWJDUkNHYzVFbXlrUDcyYUpYQWRMQ29JUUtUUWNJRyI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1741862980),
+('c71EWN7kV5qNuAyJKc2aRNI92EpDm78rAs0ixeby', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoia0thTEJpQzg3MFVlelo3Y1NTNEJlN0pqeVN1U0lwSzd3Y0IyQVRsdyI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1741863179),
+('JY8cdfIQwKsXgsLijdQcciLl14dM2Ad5ycTUb0D8', NULL, '127.0.0.1', 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiOW9YSVQ1WE00dTg5NXZNWG5iM3RCU1VoQ2tHdVJBNmNzdFZZdTZucyI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1741862832),
+('opZfjCMulFVKWqAP9niLDPKECLbEndgfHxmrU5zo', NULL, '127.0.0.1', 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiOXB3QWRtQTdNRlk4b3lGYnMxZU1uT0oxaG10Q3ZJSzNpQ2szTjBOQyI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1741862881),
+('VCGnLxSB5oPo3vRp0JbAX5WuLOTuAKoGWnaNosmu', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoidHJqdFdsaVFQczVFdG9DZE51NkVGVkFTMW5zS1lEZXVIb3dCY3NGRiI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1741863116),
+('wJcckql4HP2ua6JZ515zPqJJO5vQP8Pk9AcRzcs3', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiMldvYmp6RXg3Q3RlT01iWTBnZERFMW9MSWE3U3Z1Q0pZanZqNnJMeiI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1741862559),
+('XE7AAjzvZIPKMkd56KZXWyxI7Es3DgnyVFFiAXz8', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiZGM3Sm56RXVoMGR3bWN1RnE5bGJTeEpzbGpnajd6UHZGbVVBNEhyTCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1741862627);
 
 -- --------------------------------------------------------
 
@@ -325,11 +329,11 @@ INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, 
 
 CREATE TABLE `users` (
   `id` bigint UNSIGNED NOT NULL,
-  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `email` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
   `email_verified_at` timestamp NULL DEFAULT NULL,
-  `password` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `remember_token` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `password` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci NOT NULL,
+  `remember_token` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
@@ -457,7 +461,7 @@ ALTER TABLE `activity_history`
 -- AUTO_INCREMENT for table `categories`
 --
 ALTER TABLE `categories`
-  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=31;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=24;
 
 --
 -- AUTO_INCREMENT for table `contacts`
